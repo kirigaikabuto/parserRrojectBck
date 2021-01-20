@@ -1,0 +1,2295 @@
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+  <table class="dataTable hover" cellpadding="10px" cellspacing="0px">
+    <thead>
+      <tr>
+        <th>№</th>
+        
+                  <th class="organizationtype sorting">
+              
+              <a href="/index.cfm?docid=3227&switch=russian&organization=&organizationid=&organizationtypeid=&typeid=&kindid=&startdate=&enddate=&npatypeid=&sourceid=&start=4601&view=new&sorting=organizationtype"><b>Тип  организации</b></a>
+                </th>
+              
+                  <th class="organization sorting">
+              
+              <a href="/index.cfm?docid=3227&switch=russian&organization=&organizationid=&organizationtypeid=&typeid=&kindid=&startdate=&enddate=&npatypeid=&sourceid=&start=4601&view=new&sorting=organization"><b>Наименование организации/ФИО</b></a>
+                </th>
+              
+                  <th class="creationdate sorting">
+              
+              <a href="/index.cfm?docid=3227&switch=russian&organization=&organizationid=&organizationtypeid=&typeid=&kindid=&startdate=&enddate=&npatypeid=&sourceid=&start=4601&view=new&sorting=creationdate"><b>Дата принятия решения/дела</b></a>
+                </th>
+              
+                  <th class="number sorting">
+              
+              <a href="/index.cfm?docid=3227&switch=russian&organization=&organizationid=&organizationtypeid=&typeid=&kindid=&startdate=&enddate=&npatypeid=&sourceid=&start=4601&view=new&sorting=number"><b>Номер принятия решения/дела</b></a>
+                </th>
+              
+                  <th class="kind sorting">
+              
+              <a href="/index.cfm?docid=3227&switch=russian&organization=&organizationid=&organizationtypeid=&typeid=&kindid=&startdate=&enddate=&npatypeid=&sourceid=&start=4601&view=new&sorting=kind"><b>Вид взыскания</b></a>
+                </th>
+              
+                  <th class="type sorting">
+              
+              <a href="/index.cfm?docid=3227&switch=russian&organization=&organizationid=&organizationtypeid=&typeid=&kindid=&startdate=&enddate=&npatypeid=&sourceid=&start=4601&view=new&sorting=type"><b>Тип взыскания</b></a>
+                </th>
+              
+                  <th class="totalsum sorting">
+              
+              <a href="/index.cfm?docid=3227&switch=russian&organization=&organizationid=&organizationtypeid=&typeid=&kindid=&startdate=&enddate=&npatypeid=&sourceid=&start=4601&view=new&sorting=totalsum"><b>Наложенное взыскание</b></a>
+                </th>
+              
+              <th class="content">Существо нарушения</th>
+            
+              <th class="deadline">Срок исполнения</th>
+            
+              <th class="article">Статья/пункты НПА, Статья КоАП</th>
+            
+              <th class="comment">Примечание</th>
+            
+                  <th class="npatype sorting">
+              
+              <a href="/index.cfm?docid=3227&switch=russian&organization=&organizationid=&organizationtypeid=&typeid=&kindid=&startdate=&enddate=&npatypeid=&sourceid=&start=4601&view=new&sorting=npatype"><b>Тип НПА</b></a>
+                </th>
+              
+                  <th class="source sorting">
+              
+              <a href="/index.cfm?docid=3227&switch=russian&organization=&organizationid=&organizationtypeid=&typeid=&kindid=&startdate=&enddate=&npatypeid=&sourceid=&start=4601&view=new&sorting=source"><b>Наименование ТФ НБ РК/департамента ЦФ</b></a>
+                </th>
+              
+        
+      </tr>
+    </thead>
+    <tbody>
+      
+        <tr>
+          <td class="">4601</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=532">АО "Евроазиатская энергетическая корпорация"</a></td>
+          <td class="violation  creationdate">04.03.2017</td>
+          <td class="violation ">33-4-01/1193</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предупреждение</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований 2-2 статьи 79 ЗРК "Об акционерных обществах"
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation ">Нарушение требований 2-2 статьи 79 ЗРК "Об акционерных обществах"</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4602</td>
+          <td class="violation ">Страховые (перестраховочные) организации</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=42">АО "СК "Kompetenz" (прежнее наименование - ДО  Европейского акционерного общества " Allianz S.E." АО СК "Allianz Kazakhstan")</a></td>
+          <td class="violation  creationdate">03.03.2017</td>
+          <td class="violation ">№37-5-07/280</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            За некорректный расчет страхового резерва
+            </td>
+          <td class="violation ">
+            14.03.2017 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Выполнено</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4603</td>
+          <td class="violation ">Актуарии</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=139">Атейбекова Рима Бейсенбековна</a></td>
+          <td class="violation  creationdate">03.03.2017</td>
+          <td class="violation ">№37-5-07/279</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            За некорректный расчет страхового резерва
+
+            </td>
+          <td class="violation ">
+            14.03.2017 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Выполнено</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4604</td>
+          <td class="violation ">Актуарии</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=98">Конурбаев Ержан Еркенович</a></td>
+          <td class="violation  creationdate">03.03.2017</td>
+          <td class="violation ">№37-5-07/270</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предупреждение</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            За некорректный расчет страхового резерва
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation ">п. 18 ПП НБРК от 06.05.2014г. № 76</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4605</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=19">АО "Delta Bank"</a></td>
+          <td class="violation  creationdate">03.03.2017</td>
+          <td class="violation ">172700803000002</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">453800 (200МРП)</td>
+          <td class="violation ">
+            
+            Административное правонарушение, выразившееся в несвоевременном акцепте или отказе в акцепте (позднее трех рабочих дней со дня получения указания, за исключением случаев, предусмотренных статьей 38 ЗаконаРК "О платежах и переводах денег" и статьей 581 Налогового кодекса РК), несвоевременное исполнение (позднее операционного дня, следующего за днем акцепта полученного указания, либо позднее срока исполнения указания, если условиями такого указания установлен срок его исполнения) банками, организациями, осуществляющими отдельные виды банковских операций, указаний по платежу или переводе денег.
+            </td>
+          <td class="violation ">
+            02.04.2017 
+          </td>
+          <td class="violation ">Часть 1 статьи 220 Кодекса Республики Казахстан об административных правонарушениях</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам соблюдения законодательства по платежам и переводам денег</td>
+          <td class="violation ">Западно-Казахстанский филиал (Уральск)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4606</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=21">АО "Qazaq Banki"</a></td>
+          <td class="violation  creationdate">03.03.2017</td>
+          <td class="violation ">38-1-04/203</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            В соответствии со статьей 46 Закона о Банках Республики Казахстан в отношении банка за нарушения законодательства РК было применено письменное предписание 
+            </td>
+          <td class="violation ">
+            14.03.2017 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4607</td>
+          <td class="violation ">Страховые (перестраховочные) организации</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=53">АО "Компания по страхованию жизни "Государственная аннуитетная компания"</a></td>
+          <td class="violation  creationdate">03.03.2017</td>
+          <td class="violation ">№37-5-07/282</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            За некорректный расчет страхового резерва
+            </td>
+          <td class="violation ">
+            15.03.2017 
+          </td>
+          <td class="violation ">п. 4 ПП НБРК от 06.05.2014г. № 76</td>
+          <td class="violation ">Выполнено</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4608</td>
+          <td class="violation ">Актуарии</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=124">Макашева Айнагуль Галымжанкызы</a></td>
+          <td class="violation  creationdate">03.03.2017</td>
+          <td class="violation ">№37-5-07/281</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            За некорректный расчет страхового резерва
+            </td>
+          <td class="violation ">
+            15.03.2017 
+          </td>
+          <td class="violation ">п. 4 ПП НБРК от 06.05.2014г. № 76</td>
+          <td class="violation ">Выполнено</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4609</td>
+          <td class="violation ">Страховые (перестраховочные) организации</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=45">АО "СК "Салем" (прежнее наименование АО "СК "Алатау") </a></td>
+          <td class="violation  creationdate">03.03.2017</td>
+          <td class="violation ">37-5-07/276</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            За предоставление некорректной информации
+            </td>
+          <td class="violation ">
+            14.03.2017 
+          </td>
+          <td class="violation ">Постановление №76</td>
+          <td class="violation ">Исполнено</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4610</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=30">АО "Эксимбанк Казахстан"</a></td>
+          <td class="violation  creationdate">03.03.2017</td>
+          <td class="violation ">170000803000211</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Предупреждение</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation ">часть 3 статьи 217</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам соблюдения требований валютного законодательства</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4611</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=474">АО "Аэропорт Коркыт Ата"</a></td>
+          <td class="violation  creationdate">03.03.2017</td>
+          <td class="violation ">170000803000176</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">226900</td>
+          <td class="violation ">
+            
+            Невыполнение субъектами рынка ценных бумаг обязанности по раскрытию информации в порядке и на условиях, определяемых законодательством РК 
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation ">ст. 263</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4612</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=520">АО "ГОСУДАРСТВЕННЫЙ ФОНД СОЦИАЛЬНОГО СТРАХОВАНИЯ"</a></td>
+          <td class="violation  creationdate">02.03.2017</td>
+          <td class="violation ">17000080300169</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">226900</td>
+          <td class="violation ">
+            
+            Невыполнение субъектами рынка ценных бумаг обязанности по раскрытию информации в порядке и на условиях, определяемых законодательством РК 
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation ">ст. 263</td>
+          <td class="violation ">Исполнено письмом №19350 от 05.04.2017г.</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4613</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=37">ДО АО Банк ВТБ (Казахстан)</a></td>
+          <td class="violation  creationdate">02.03.2017</td>
+          <td class="violation ">170000803000206</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">453 800</td>
+          <td class="violation ">
+            
+            административное правонарушение выразилось в представлении Банком недостоверной отчетности в Национальный Банк Республики Казахстан 
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation ">ч.8 статья 213</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4614</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=662">АО "Казтранссервис"</a></td>
+          <td class="violation  creationdate">02.03.2017</td>
+          <td class="violation ">33-4-01/1166</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предупреждение</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            За невыполнение обязанности по раскрытию информации о своей деятельности согласно п. 1 и п. 2-2 ст. 79 Закона РК "Об акционерных обществах"
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4615</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=1080">АО Қазтеміртранс"</a></td>
+          <td class="violation  creationdate">02.03.2017</td>
+          <td class="violation ">33-4-01/1167</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предупреждение</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            За невыполнение обязанности по раскрытию информации о своей деятельности согласно п. 1 и п. 2-2 ст. 79 Закона РК "Об акционерных обществах" 
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4616</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=31">АО "Altyn Bank" (ДБ China Citic Bank Corporation Limited) (прежнее название АО "Altyn Bank" (ДБ АО "Народный Банк Казахстана"))</a></td>
+          <td class="violation  creationdate">02.03.2017</td>
+          <td class="violation ">170000803000208</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">453800</td>
+          <td class="violation ">
+            
+            Неоднократное непредставление в установленный срок финансовой и иной отчетности
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation ">часть 1 статьи 212</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам предоставления финансовой и иной отчетности</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4617</td>
+          <td class="violation ">Юридические лица, исключительным видом деятельности которых является организация обменных операций с наличной иностранной валютой</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=2094">ТОО "Имран Шу и К"</a></td>
+          <td class="violation  creationdate">01.03.2017</td>
+          <td class="violation ">173100803000007</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Предупреждение</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение порядка предоставления отчетности по оформленным регистрационным свидетельствам или свидетельствам об уведомлении или по валютному мониторингу, по обменным операциям с наличной иностранной валютой, а также информации и документов, подтверждающих возникновение обстоятельств, которые влияют на сроки и условия репатриации национальной и иностранной валюты  1. Представление недостоверной отчетности по оформленным регистрационным свидетельствам или свидетельствам об уведомлении или по валютному мониторингу, по обменным операциям с наличной иностранной валютой -  влечет предупреждение на физических и юридических лиц.
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation ">Часть 1 статьи 243</td>
+          <td class="violation ">Представление недостоверной отчетности по обменным операциям с наличной иностранной валютой.</td>
+          <td class="violation ">по вопросам соблюдения требований валютного законодательства</td>
+          <td class="violation ">Управление региональных представителей в городе Тараз</td>
+        </tr>
+      
+        <tr>
+          <td class="">4618</td>
+          <td class="violation ">Страховые (перестраховочные) организации</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=40">АО "Страховая компания "Amanat"</a></td>
+          <td class="violation  creationdate">28.02.2017</td>
+          <td class="violation ">№170000803000162</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">2 042 100 тг.</td>
+          <td class="violation ">
+            
+            Неисполнение субъектом финансового мониторинга обязанностей по исполнению правил внутреннего контроля и программ его осуществления
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation ">часть 2 статьи 214</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4619</td>
+          <td class="violation ">Юридические лица, исключительным видом деятельности которых является организация обменных операций с наличной иностранной валютой</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=2092">ТОО "Элегант-1"</a></td>
+          <td class="violation  creationdate">28.02.2017</td>
+          <td class="violation ">63-5-43/0/59/340</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Предупреждение</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            представление недостоверной отчетности по обменным операциям с наличной иностранной валютой
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation ">Часть 1 статьи 243</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам соблюдения требований валютного законодательства</td>
+          <td class="violation ">Управление региональных представителей в городе Петропавловск</td>
+        </tr>
+      
+        <tr>
+          <td class="">4620</td>
+          <td class="violation ">Управляющие инвестиционным портфелем, совмещающие деятельность с брокерской и (или) дилерской</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=175">АО «NGDEM Finance»</a></td>
+          <td class="violation  creationdate">28.02.2017</td>
+          <td class="violation ">27-5-04/159</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предупреждение</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            За несвоевременное представление финансовой и иной отчетности
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation ">часть 1 статьи 212</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам предоставления финансовой и иной отчетности</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4621</td>
+          <td class="violation ">Страховые (перестраховочные) организации</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=73">АО «Страховая компания «STANDARD» (прежнее наименование - АО СК "Астана- Финанс")</a></td>
+          <td class="violation  creationdate">27.02.2017</td>
+          <td class="violation ">170000803000164</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">453 800 тенге</td>
+          <td class="violation ">
+            
+            Административное правонарушение выразилось в предоставлении недостоверной отчетности в уполномоченный орган.
+            </td>
+          <td class="violation ">
+            06.04.2017 
+          </td>
+          <td class="violation ">часть 2 статья 228</td>
+          <td class="violation ">Исполнено</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4622</td>
+          <td class="violation ">Юридические лица, исключительным видом деятельности которых является организация обменных операций с наличной иностранной валютой</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=2091">ТОО "ТрансЭкспрессА"</a></td>
+          <td class="violation  creationdate">27.02.2017</td>
+          <td class="violation ">175500803000003</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Предупреждение</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение порядка предоставления отчетности по оформленным регистрационным свидетельствам или свидетельствам об уведомлении или по валютному мониторингу, по обменным операциям с наличной иностранной валютой, а также информации и документов, подтверждающих возникновение обстоятельств, которые влияют на сроки и условия репатриации национальной и иностранной валюты  1. Представление недостоверной отчетности по оформленным регистрационным свидетельствам или свидетельствам об уведомлении или по валютному мониторингу, по обменным операциям с наличной иностранной валютой -  влечет предупреждение на физических и юридических лиц.
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation ">Часть 1 статьи 243</td>
+          <td class="violation ">Представление недостоверной отчетности по обменным операциям с наличной иностранной валютой за декабрь 2015 года</td>
+          <td class="violation ">по вопросам соблюдения требований валютного законодательства</td>
+          <td class="violation ">Управление региональных представителей в городе Павлодар</td>
+        </tr>
+      
+        <tr>
+          <td class="">4623</td>
+          <td class="violation ">Юридические лица, исключительным видом деятельности которых является организация обменных операций с наличной иностранной валютой</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=2091">ТОО "ТрансЭкспрессА"</a></td>
+          <td class="violation  creationdate">27.02.2017</td>
+          <td class="violation ">175500803000004</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Предупреждение</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение порядка предоставления отчетности по оформленным регистрационным свидетельствам или свидетельствам об уведомлении или по валютному мониторингу, по обменным операциям с наличной иностранной валютой, а также информации и документов, подтверждающих возникновение обстоятельств, которые влияют на сроки и условия репатриации национальной и иностранной валюты  1. Представление недостоверной отчетности по оформленным регистрационным свидетельствам или свидетельствам об уведомлении или по валютному мониторингу, по обменным операциям с наличной иностранной валютой -  влечет предупреждение на физических и юридических лиц.
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation ">Часть 1 статьи 243</td>
+          <td class="violation ">Представление недостоверной отчетности по обменным операциям с наличной иностранной валютой за сентябрь 2016 года</td>
+          <td class="violation ">по вопросам соблюдения требований валютного законодательства</td>
+          <td class="violation ">Управление региональных представителей в городе Павлодар</td>
+        </tr>
+      
+        <tr>
+          <td class="">4624</td>
+          <td class="violation ">Юридические лица, исключительным видом деятельности которых является организация обменных операций с наличной иностранной валютой</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=2091">ТОО "ТрансЭкспрессА"</a></td>
+          <td class="violation  creationdate">27.02.2017</td>
+          <td class="violation ">175500803000005</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Предупреждение</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение порядка предоставления отчетности по оформленным регистрационным свидетельствам или свидетельствам об уведомлении или по валютному мониторингу, по обменным операциям с наличной иностранной валютой, а также информации и документов, подтверждающих возникновение обстоятельств, которые влияют на сроки и условия репатриации национальной и иностранной валюты  1. Представление недостоверной отчетности по оформленным регистрационным свидетельствам или свидетельствам об уведомлении или по валютному мониторингу, по обменным операциям с наличной иностранной валютой -  влечет предупреждение на физических и юридических лиц.
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation ">Часть 1 статьи 243</td>
+          <td class="violation ">Представление недостоверной отчетности по обменным операциям с наличной иностранной валютой за январь 2017 года</td>
+          <td class="violation ">по вопросам соблюдения требований валютного законодательства</td>
+          <td class="violation ">Управление региональных представителей в городе Павлодар</td>
+        </tr>
+      
+        <tr>
+          <td class="">4625</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=1995">ТОО "Бузгул Аурум"</a></td>
+          <td class="violation  creationdate">27.02.2017</td>
+          <td class="violation ">170000803000156</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">226900</td>
+          <td class="violation ">
+            
+            Невыполнение субъектами рынка ценных бумаг обязанности по раскрытию информации в порядке и на условиях, определяемых законодательством РК 
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation ">ст. 263</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4626</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=1">АО "First Heartland Bank"  (прежнее наименование - АО "Банк ЭкспоКредит")</a></td>
+          <td class="violation  creationdate">27.02.2017</td>
+          <td class="violation ">170000803000166</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">1 361 400 </td>
+          <td class="violation ">
+            
+            административное правонарушение выразилось в представлении Банком недостоверной отчетности в уполномоченный орган
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation ">ч.3 ст.213 </td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4627</td>
+          <td class="violation ">Актуарии</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=107">Мирзалиев Аскар Есенович</a></td>
+          <td class="violation  creationdate">27.02.2017</td>
+          <td class="violation ">№170000803000096</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">113 450 тг.</td>
+          <td class="violation ">
+            
+            Актуарием совершено административное правонарушение, выразившееся в осуществлении своей деятельности в нарушение законодательства Республики Казахстан о страховании и страховой деятельности
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation ">часть 8 статья 228</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4628</td>
+          <td class="violation ">Страховые (перестраховочные) организации</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=40">АО "Страховая компания "Amanat"</a></td>
+          <td class="violation  creationdate">27.02.2017</td>
+          <td class="violation ">№170000803000093</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">907 600 тг.</td>
+          <td class="violation ">
+            
+            Составление отчетности, приведшей к искажению содержащихся в ней показателей либо сведений о соблюдении пруденциальных нормативов и (или) иных обязательных к соблюдению норм и лимитов
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation ">часть 12 статьи 228</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4629</td>
+          <td class="violation ">Страховые (перестраховочные) организации</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=40">АО "Страховая компания "Amanat"</a></td>
+          <td class="violation  creationdate">27.02.2017</td>
+          <td class="violation ">№170000803000094</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">907 600 тг.</td>
+          <td class="violation ">
+            
+            Составление отчетности, приведшей к искажению содержащихся в ней показателей либо сведений о соблюдении пруденциальных нормативов и (или) иных обязательных к соблюдению норм и лимитов
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation ">часть 12 статьи 228</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4630</td>
+          <td class="violation ">Страховые (перестраховочные) организации</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=40">АО "Страховая компания "Amanat"</a></td>
+          <td class="violation  creationdate">27.02.2017</td>
+          <td class="violation ">№170000803000095</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">1 134 500 тг.</td>
+          <td class="violation ">
+            
+            Неоднократное (два и более раза в течение двенадцати последовательных календарных месяцев) нарушение установленных Национальным Банком пруденциальных нормативов
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation ">часть 5 статья 228</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4631</td>
+          <td class="violation ">Страховые (перестраховочные) организации</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=40">АО "Страховая компания "Amanat"</a></td>
+          <td class="violation  creationdate">27.02.2017</td>
+          <td class="violation ">№170000803000144</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">226 900</td>
+          <td class="violation ">
+            
+            Административное правонарушение выразилось в неправильном осуществлении страховой выплаты
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation ">часть 1 статья 229</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4632</td>
+          <td class="violation ">Страховые (перестраховочные) организации</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=40">АО "Страховая компания "Amanat"</a></td>
+          <td class="violation  creationdate">27.02.2017</td>
+          <td class="violation ">№170000803000148</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">1 280 260 тг.</td>
+          <td class="violation ">
+            
+            Административное правонарушение выразилось в ведении бухгалтерского учета в нарушение требований, установленных законодательством РК о бухгалтерском учете и финансовой отчетности, и методов (принципов) бухгалтерского учета, приведшее к искажению финансовой отчетности
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation ">часть 4 статья 239</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4633</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=30">АО "Эксимбанк Казахстан"</a></td>
+          <td class="violation  creationdate">27.02.2017</td>
+          <td class="violation ">170000803000173</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">453800</td>
+          <td class="violation ">
+            
+            административное правонарушение выразилось в представлении Банком недостоверной отчетности в Национальный Банк Республики Казахстан 
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation ">часть 2 статьи 213</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4634</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=2">Дочерний Банк Акционерное общество  "Хоум Кредит энд Финанс Банк"</a></td>
+          <td class="violation  creationdate">27.02.2017</td>
+          <td class="violation ">170000803000174</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">1 361 400 </td>
+          <td class="violation ">
+            
+            административное правонарушение выразилось в повторном в течение года после наложения административного взыскания представлении Банком недостоверной отчетности в Национальный Банк Республики Казахстан
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation ">ч.3 статья 213</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4635</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=38">АО "Банк Kassa Nova" (ДБ АО "ForteBank")</a></td>
+          <td class="violation  creationdate">27.02.2017</td>
+          <td class="violation ">170000803000171<br> 170000803000172</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">907 600 KZT</td>
+          <td class="violation ">
+            
+            административное правонарушение выразилось в предоставлении в уполномоченный орган недостоверных, а равно неполных сведений в Национальный Банк Республики Казахстан
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation ">ч.2 статья 213</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4636</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=34">АО «ForteBank»</a></td>
+          <td class="violation  creationdate">27.02.2017</td>
+          <td class="violation ">б/н</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">453800</td>
+          <td class="violation ">
+            
+            административное правонарушение в виде необоснованного отказа, в исполнении указания по платежу при отсутствии оснований для отказа в исполнении указания, определенных Законом Республики Казахстан "О платежах и платежных системах"
+            </td>
+          <td class="violation ">
+            09.04.2017 
+          </td>
+          <td class="violation ">нарушение части 4 статьи 220 Закона Республики Казахстан "О платежах и платежных системах"</td>
+          <td class="violation ">исполнено 07.04.2017г.</td>
+          <td class="violation ">по вопросам соблюдения законодательства по платежам и переводам денег</td>
+          <td class="violation ">Мангистауский филиал (Актау)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4637</td>
+          <td class="violation ">Страховые (перестраховочные) организации</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=76">АО "Страховая компания "Jýsan Garant" (прежнее наименование - АО "ДО АО "Цеснабанк" Страховая Компания "Цесна Гарант")</a></td>
+          <td class="violation  creationdate">24.02.2017</td>
+          <td class="violation ">№37-5-07/247</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предупреждение</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            За несвоевременное представление отчетности
+
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation ">п. 45-1 ПП АФН РК от 22.08.2008г. № 131</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4638</td>
+          <td class="violation ">Организация, осуществляющая микрофинансовую деятельность</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=1893">ТОО "Микрофинансовая организация "Шалкар-Несие"</a></td>
+          <td class="violation  creationdate">24.02.2017</td>
+          <td class="violation ">64-12-06/767</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            нарушение подпункта 11) пункта 2 статьи 7 Закона о Микрофинансовых организациях (не предоставление информации о смене директора)
+            </td>
+          <td class="violation ">
+            28.03.2017 
+          </td>
+          <td class="violation ">нарушение подпункта 11) пункта 2 статьи 7 Закона о Микрофинансовых организациях</td>
+          <td class="violation ">исполнена, письмо МФО от 20.02.2017г. (исх.№1)</td>
+          <td class="violation ">по вопросам предоставления финансовой и иной отчетности</td>
+          <td class="violation ">Управление региональных представителей в городе Нур-Султан</td>
+        </tr>
+      
+        <tr>
+          <td class="">4639</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=876">АО "Республиканский научно-методический центр развития технического и профессионального образования и присвоения квалификации"</a></td>
+          <td class="violation  creationdate">23.02.2017</td>
+          <td class="violation ">33-3-20/1076</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            п 2 ст 24 Закона о РЦБ
+            </td>
+          <td class="violation ">
+            10.04.2017 
+          </td>
+          <td class="violation ">п 2 ст 24 Закона о РЦБ</td>
+          <td class="violation ">исполнено (вх. 376 от 05.04.2017г.)</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4640</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=34">АО «ForteBank»</a></td>
+          <td class="violation  creationdate">23.02.2017</td>
+          <td class="violation ">№ 59-8-32/502</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Отсутствие в кредитном досье документов, предусмотренных Правилами ведения документации по кредитованию № 49 от 23.02.2007г., отсутствие надлежащего контроля  за соблюдением  требований Правил ведения документации по кредитованию № 49 от 23.02.2007г. со стороны ответственных работников банка
+            </td>
+          <td class="violation ">
+            10.03.2017 
+          </td>
+          <td class="violation ">подпункт 1)  пункта 25,  пункт 6  Правил ведения документации по кредитованию № 49 от 23.02.2007г. </td>
+          <td class="violation "></td>
+          <td class="violation ">Правила ведения документации по кредитованию от 23 февраля 2007 года № 49</td>
+          <td class="violation ">Управление региональных представителей в городе Костанай</td>
+        </tr>
+      
+        <tr>
+          <td class="">4641</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=52">АО "Дочерняя организация Народного Банка Казахстана "Страховая компания "Халык" ( прежнее наименование - АО "Дочерняя Страховая компания Народного Банка Казахстана "Халык-Казахинстрах")</a></td>
+          <td class="violation  creationdate">23.02.2017</td>
+          <td class="violation ">33-4-01/1071</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований 2-2 статьи 79 ЗРК "Об акционерных обществах"
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4642</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=493">АО "БРК-Лизинг"</a></td>
+          <td class="violation  creationdate">23.02.2017</td>
+          <td class="violation ">33-4-01/1072</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предупреждение</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований 2-2 статьи 79 ЗРК "Об акционерных обществах"
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4643</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=262">АО " Санаторий Арка"</a></td>
+          <td class="violation  creationdate">23.02.2017</td>
+          <td class="violation ">33-4-01/1073</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предупреждение</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований 2-2 статьи 79 ЗРК "Об акционерных обществах"
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4644</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=226">АО "КазМунайГаз - переработка и маркетинг"</a></td>
+          <td class="violation  creationdate">23.02.2017</td>
+          <td class="violation ">33-4-01/1077</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предупреждение</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований 2-2 статьи 79 ЗРК "Об акционерных обществах"
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation ">Нарушение требований 2-2 статьи 79 ЗРК "Об акционерных обществах"</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4645</td>
+          <td class="violation ">Брокеры-дилеры</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=1184">АО "FALCONRY CAPITAL"</a></td>
+          <td class="violation  creationdate">23.02.2017</td>
+          <td class="violation ">№33-1-08/1087</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            В связи с нарушением требования пункта 1 статьи 53 Закона "О рынке ценных бумаг"
+            </td>
+          <td class="violation ">
+            10.03.2017 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">исполнено письмом от 06.03.2017 №01/06/03-FC</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4646</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=777">АО "Национальная атомная компания "Казатомпром"</a></td>
+          <td class="violation  creationdate">23.02.2017</td>
+          <td class="violation ">№33-3-20/1064</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            пункт 1 статьи 102 Закона РК "О рынке ценных бумаг"
+            </td>
+          <td class="violation ">
+            24.03.2017 
+          </td>
+          <td class="violation ">пункт 1 статьи 102 Закона РК "О рынке ценных бумаг"</td>
+          <td class="violation ">исполнено №16724 от 24.03.2017г.</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4647</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=281">АО "Bek 1"</a></td>
+          <td class="violation  creationdate">21.02.2017</td>
+          <td class="violation ">№33-3-20/1007</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            пункт 7 статьи 9 Закона РК "О рынке ценных бумаг"
+            </td>
+          <td class="violation ">
+            24.03.2017 
+          </td>
+          <td class="violation ">пункт 7 статьи 9 Закона РК "О рынке ценных бумаг"</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4648</td>
+          <td class="violation ">Кастодиан</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=17">АО "Народный сберегательный банк Казахстана"</a></td>
+          <td class="violation  creationdate">21.02.2017</td>
+          <td class="violation ">33-1-08/999</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предупреждение</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            В связи с  нарушением требований, установленных подпунктом 6) статьи 44   Закона Республики Казахстан "Об инвестиционных фондах"
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4649</td>
+          <td class="violation ">Организация, осуществляющая микрофинансовую деятельность</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=2089">ТОО «Микрофинансовая организация «Алқа»</a></td>
+          <td class="violation  creationdate">21.02.2017</td>
+          <td class="violation ">55-13-20/190</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предупреждение</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Предоставление микрокредитов в размере, превышающем 8 000 размер месячного расчетного показателя, установленного на соответствующий финансовый год.
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation ">п.1 ст. 3 Закона РК «О микрофинансовых организациях» </td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Восточно-Казахстанский филиал (Усть-Каменогорск)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4650</td>
+          <td class="violation ">Брокеры-дилеры</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=13">АО "ДОЧЕРНИЙ БАНК «КАЗАХСТАН-ЗИРААТ ИНТЕРНЕШНЛ БАНК"</a></td>
+          <td class="violation  creationdate">21.02.2017</td>
+          <td class="violation ">33-1-08/997</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            В связи с нарушением требований пункта 6 статьи 86 Закона РК "О рынке ценных бумаг"
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4651</td>
+          <td class="violation ">Страховые (перестраховочные) организации</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=53">АО "Компания по страхованию жизни "Государственная аннуитетная компания"</a></td>
+          <td class="violation  creationdate">20.02.2017</td>
+          <td class="violation ">170000803000089</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">226 900</td>
+          <td class="violation ">
+            
+            Административное правонарушение выразилось в ведении бухгалтерского учета в нарушение требований, установленных законодательством РК о бухгалтерском учете и финансовой отчетности, и методов (принципов) бухгалтерского учета, приведшее к искажению финансовой отчетности
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation ">часть 4 статья 239</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4652</td>
+          <td class="violation ">Страховые (перестраховочные) организации</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=53">АО "Компания по страхованию жизни "Государственная аннуитетная компания"</a></td>
+          <td class="violation  creationdate">20.02.2017</td>
+          <td class="violation ">170000803000090</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">226 900</td>
+          <td class="violation ">
+            
+            Административное правонарушение выразилось в ведении бухгалтерского учета в нарушение требований, установленных законодательством РК о бухгалтерском учете и финансовой отчетности, и методов (принципов) бухгалтерского учета, приведшее к искажению финансовой отчетности
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation ">часть 4 статья 239</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4653</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=187">Акционерное общество "Исламский Банк "Al-Hilal"</a></td>
+          <td class="violation  creationdate">20.02.2017</td>
+          <td class="violation ">170000803000193</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">1 361 400 </td>
+          <td class="violation ">
+            
+            административное правонарушение выразилось в повторном в течение года после наложения административного взыскания представлении Банком недостоверной отчетности в Национальный Банк Республики Казахстан
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation ">ч.3 статья 213</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4654</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=19">АО "Delta Bank"</a></td>
+          <td class="violation  creationdate">20.02.2017</td>
+          <td class="violation ">1700008030000186</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">453 800</td>
+          <td class="violation ">
+            
+            несвоевременное исполнение/несвоевременный отказ в исполнении указания по платежу и (или) переводу денег
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation ">Часть 1 статьи 220</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам соблюдения законодательства по платежам и переводам денег</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4655</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=19">АО "Delta Bank"</a></td>
+          <td class="violation  creationdate">20.02.2017</td>
+          <td class="violation ">1700008030000187</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">453 800</td>
+          <td class="violation ">
+            
+            несвоевременное исполнение/несвоевременный отказ в исполнении указания по платежу и (или) переводу денег
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation ">Часть 1 статьи 220</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам соблюдения законодательства по платежам и переводам денег</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4656</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=19">АО "Delta Bank"</a></td>
+          <td class="violation  creationdate">20.02.2017</td>
+          <td class="violation ">1700008030000188</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">453 800</td>
+          <td class="violation ">
+            
+            несвоевременное исполнение/несвоевременный отказ в исполнении указания по платежу и (или) переводу денег
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation ">Часть 1 статьи 220</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам соблюдения законодательства по платежам и переводам денег</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4657</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=19">АО "Delta Bank"</a></td>
+          <td class="violation  creationdate">20.02.2017</td>
+          <td class="violation ">1700008030000189</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">453 800</td>
+          <td class="violation ">
+            
+            несвоевременное исполнение/несвоевременный отказ в исполнении указания по платежу и (или) переводу денег
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation ">Часть 1 статьи 220</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам соблюдения законодательства по платежам и переводам денег</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4658</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=19">АО "Delta Bank"</a></td>
+          <td class="violation  creationdate">20.02.2017</td>
+          <td class="violation ">1700008030000190</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">453 800</td>
+          <td class="violation ">
+            
+            несвоевременное исполнение/несвоевременный отказ в исполнении указания по платежу и (или) переводу денег
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation ">Часть 1 статьи 220</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам соблюдения законодательства по платежам и переводам денег</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4659</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=19">АО "Delta Bank"</a></td>
+          <td class="violation  creationdate">20.02.2017</td>
+          <td class="violation ">1700008030000191</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">453 800</td>
+          <td class="violation ">
+            
+            несвоевременное исполнение/несвоевременный отказ в исполнении указания по платежу и (или) переводу денег
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation ">Часть 1 статьи 220</td>
+          <td class="violation ">В связи с примирением сторон взыскание не налагалось.</td>
+          <td class="violation ">по вопросам соблюдения законодательства по платежам и переводам денег</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4660</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=19">АО "Delta Bank"</a></td>
+          <td class="violation  creationdate">20.02.2017</td>
+          <td class="violation ">1700008030000192</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">453 800</td>
+          <td class="violation ">
+            
+            несвоевременное исполнение/несвоевременный отказ в исполнении указания по платежу и (или) переводу денег
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation ">Часть 1 статьи 220</td>
+          <td class="violation ">В связи с примирением сторон взыскание не налагалось.</td>
+          <td class="violation ">по вопросам соблюдения законодательства по платежам и переводам денег</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4661</td>
+          <td class="violation ">Брокеры-дилеры</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=3">АО "АТФБанк"</a></td>
+          <td class="violation  creationdate">20.02.2017</td>
+          <td class="violation ">170000803000154</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">226 900 тенге</td>
+          <td class="violation ">
+            
+            Невыполнение субъектами рынка ценных бумаг обязанности по раскрытию информации в порядке и на условиях, определяемых законодательством РК 
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation ">ст. 263</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4662</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=2068">АО "Международный аэропорт "Костанай"</a></td>
+          <td class="violation  creationdate">20.02.2017</td>
+          <td class="violation ">170000803000088</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">1.134.500 тенге</td>
+          <td class="violation ">
+            
+            ст. 261
+            </td>
+          <td class="violation ">
+            03.04.2017 
+          </td>
+          <td class="violation ">ст. 261</td>
+          <td class="violation ">30.03.2017 (представлено письмо об исполнении Постановления)</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4663</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=6">АО «Tengri Bank» (прежнее название АО "«Дочерний банк «Punjab National Bank»-Казахстан»")</a></td>
+          <td class="violation  creationdate">20.02.2017</td>
+          <td class="violation ">170000803000091</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">90760</td>
+          <td class="violation ">
+            
+            
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation ">часть 4 статьи 218</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам соблюдения требований валютного законодательства</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4664</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=6">АО «Tengri Bank» (прежнее название АО "«Дочерний банк «Punjab National Bank»-Казахстан»")</a></td>
+          <td class="violation  creationdate">20.02.2017</td>
+          <td class="violation ">170000803000163</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">90760</td>
+          <td class="violation ">
+            
+            
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation ">часть 4 статьи 218</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам соблюдения требований валютного законодательства</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4665</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=2211">АО "3А-БэстГрупп"</a></td>
+          <td class="violation  creationdate">20.02.2017</td>
+          <td class="violation ">33-3-20/984</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            пункт 2 статьи 24 о РЦБ
+            </td>
+          <td class="violation ">
+            20.03.2017 
+          </td>
+          <td class="violation ">пункт 2 статьи 24 о РЦБ</td>
+          <td class="violation ">возврат письма от 17.03.2017</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4666</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=467">АО "Атамекен-Агро"</a></td>
+          <td class="violation  creationdate">17.02.2017</td>
+          <td class="violation "></td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            часть 1 статьи 261 КоАП
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation ">часть 1 статьи 261 КоАП</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4667</td>
+          <td class="violation ">Страховые (перестраховочные) организации</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=45">АО "СК "Салем" (прежнее наименование АО "СК "Алатау") </a></td>
+          <td class="violation  creationdate">17.02.2017</td>
+          <td class="violation ">170000803000175</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">453 800 тенге</td>
+          <td class="violation ">
+            
+            Административное правонарушение выразилось в предоставлении недостоверной отчетности в уполномоченный орган.
+            </td>
+          <td class="violation ">
+            14.04.2017 
+          </td>
+          <td class="violation ">часть 2 статья 228</td>
+          <td class="violation ">Выполнено</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4668</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=657">АО "Казтелепорт"</a></td>
+          <td class="violation  creationdate">17.02.2017</td>
+          <td class="violation ">170000803000046</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">226900</td>
+          <td class="violation ">
+            
+            Невыполнение субъектами рынка ценных бумаг обязанности по раскрытию информации в порядке и на условиях, определяемых законодательством РК 
+            </td>
+          <td class="violation ">
+            05.04.2017 
+          </td>
+          <td class="violation ">ст. 263</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4669</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=958">АО "Трамвайное управление города Павлодар"</a></td>
+          <td class="violation  creationdate">17.02.2017</td>
+          <td class="violation ">33-3-20/950</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            пункт 1 статьи 102 Закона о рынке ценных бумаг
+            </td>
+          <td class="violation ">
+            31.03.2017 
+          </td>
+          <td class="violation ">пункт 1 статьи 102 Закона о рынке ценных бумаг</td>
+          <td class="violation ">исполнено №15631 от 14.03.2017
+</td>
+          <td class="violation ">по вопросам предоставления финансовой и иной отчетности</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4670</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=841">АО "Парк ядерных технологий"</a></td>
+          <td class="violation  creationdate">17.02.2017</td>
+          <td class="violation ">33-4-01/966</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предупреждение</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            За невыполнение обязанности по раскрытию информации о своей деятельности согласно п. 1 и п. 2-2 ст. 79 Закона РК "Об акционерных обществах" и согласно п. 1, 2 и 4 ст. 102 Закона РК "О рынке ценных бумаг"
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4671</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=2085">АО "Фондовый центр"</a></td>
+          <td class="violation  creationdate">17.02.2017</td>
+          <td class="violation ">33-4-01/967</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предупреждение</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            За невыполнение обязанности по раскрытию информации о своей деятельности согласно п. 1 и п. 2-2 ст. 79 Закона РК "Об акционерных обществах" и согласно п. 1, 2 и 4 ст. 102 Закона РК "О рынке ценных бумаг"
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4672</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=2086">АО "ЕВРАЗИЙСКАЯ АЛЮМИНИЕВАЯ КОМПАНИЯ"</a></td>
+          <td class="violation  creationdate">17.02.2017</td>
+          <td class="violation ">33-4-01/968</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предупреждение</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            За невыполнение обязанности по раскрытию информации о своей деятельности согласно п. 1 и п. 2-2 ст. 79 Закона РК "Об акционерных обществах" и согласно п. 1, 2 и 4 ст. 102 Закона РК "О рынке ценных бумаг"
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4673</td>
+          <td class="violation ">Страховые (перестраховочные) организации</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=70">АО "Компания по страхованию жизни "Казкоммерц-Life" (ДО АО "Казкоммерцбанк")</a></td>
+          <td class="violation  creationdate">17.02.2017</td>
+          <td class="violation ">№38-4-04/132</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            По результатам инспекторской проверки
+            </td>
+          <td class="violation ">
+            28.02.2017 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4674</td>
+          <td class="violation ">Юридические лица, исключительным видом деятельности которых является организация обменных операций с наличной иностранной валютой</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=2076">ТОО "БОЛАШАК- И.Т.И."</a></td>
+          <td class="violation  creationdate">16.02.2017</td>
+          <td class="violation ">64-07-26/636</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            нарушение организации обменных операций с наличной иностранной валютой 
+            </td>
+          <td class="violation ">
+            23.02.2017 
+          </td>
+          <td class="violation ">Постановление Правления Национального Банка Республики Казахстан от 16 июля 2014 года № 144  Об утверждении Правил организации обменных операций с наличной иностранной валютой в Республике Казахстан</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам соблюдения требований валютного законодательства</td>
+          <td class="violation ">Управление региональных представителей в городе Нур-Султан</td>
+        </tr>
+      
+        <tr>
+          <td class="">4675</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=25">ДБ АО "Сбербанк России" (прежнее наименование - АО "ТEXAКABANK")</a></td>
+          <td class="violation  creationdate">16.02.2017</td>
+          <td class="violation ">№57-09-29/335</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            За нарушение требований , проведение расходных операций с банковского счета, на который наложен арест.
+            </td>
+          <td class="violation ">
+            15.03.2017 
+          </td>
+          <td class="violation ">ПП НБ РК от 28.01.2016 года № 30 пункт 125</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам соблюдения законодательства по платежам и переводам денег</td>
+          <td class="violation ">Западно-Казахстанский филиал (Уральск)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4676</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=2084">АО "Ракетно-Космическая Компания "Байконур"</a></td>
+          <td class="violation  creationdate">15.02.2017</td>
+          <td class="violation ">33-3-20/820</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            пункт 7 статьи 9 Закона о рынке ценных бумаг
+            </td>
+          <td class="violation ">
+            27.03.2017 
+          </td>
+          <td class="violation ">пункт 7 статьи 9 Закона о рынке ценных бумаг</td>
+          <td class="violation ">возврат письма 01.03.2017г.</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4677</td>
+          <td class="violation ">Организация, осуществляющая микрофинансовую деятельность</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=1893">ТОО "Микрофинансовая организация "Шалкар-Несие"</a></td>
+          <td class="violation  creationdate">15.02.2017</td>
+          <td class="violation ">64-12-07/981</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">226900</td>
+          <td class="violation ">
+            
+            Неоднократное (два и более раза в течение двенадцати последовательных календарных месяцев) непредставление в установленный срок финансовой и иной отчетности микрофинансовыми организациями, представление которой требуется в соответствии с нормативными правовыми актами Национального Банка Республики Казахстан
+            </td>
+          <td class="violation ">
+            17.03.2017 
+          </td>
+          <td class="violation ">часть 2 статьи 212</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам предоставления финансовой и иной отчетности</td>
+          <td class="violation ">Управление региональных представителей в городе Нур-Султан</td>
+        </tr>
+      
+        <tr>
+          <td class="">4678</td>
+          <td class="violation ">Страховые (перестраховочные) организации</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=73">АО «Страховая компания «STANDARD» (прежнее наименование - АО СК "Астана- Финанс")</a></td>
+          <td class="violation  creationdate">15.02.2017</td>
+          <td class="violation ">37-1-05/203</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            За нарушение требований ПП НБ РК от 22.08.2008 года № 131 по расчету пруденциального норматива достаточности маржи платежеспособности 
+            </td>
+          <td class="violation ">
+            22.02.2017 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Исполнено</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4679</td>
+          <td class="violation ">Страховые (перестраховочные) организации</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=60">АО "Страховая компания "НОМАД Иншуранс"</a></td>
+          <td class="violation  creationdate">15.02.2017</td>
+          <td class="violation ">170000803000081</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">907 600 тенге</td>
+          <td class="violation ">
+            
+            Административное правонарушение выразилось в нарушении законодательства Республики Казахстан о противодействии легализации (отмыванию) доходов, полученных преступным путем, и финансированию терроризма в части приостановления и отказа от проведения операций, подлежащих финансовому мониторингу, и предоставления информации об операциях, подлежащих финансовому мониторингу
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation ">часть 1 статьи 214</td>
+          <td class="violation ">Исполнено</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4680</td>
+          <td class="violation ">Кастодиан</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=17">АО "Народный сберегательный банк Казахстана"</a></td>
+          <td class="violation  creationdate">14.02.2017</td>
+          <td class="violation ">33-1-08/860</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предупреждение</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            В связи с нарушением требований пункта 2 статьи 73 Закона РК "О рынке ценных бумаг"
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4681</td>
+          <td class="violation ">Брокеры-дилеры</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=1175">АО «Алиби Секьюритиз»</a></td>
+          <td class="violation  creationdate">14.02.2017</td>
+          <td class="violation ">33-1-08/862</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предупреждение</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            За несвоевременное представление сведений о квалифицированных инвесторов  
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4682</td>
+          <td class="violation ">Юридические лица, исключительным видом деятельности которых является организация обменных операций с наличной иностранной валютой</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=2320">ТОО «NurAbdi» </a></td>
+          <td class="violation  creationdate">14.02.2017</td>
+          <td class="violation ">52-10-29/3/75/2785 и 52-10-29/3/75/2786</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">363 040</td>
+          <td class="violation ">
+            
+            нарушение установленных законодательством Республики Казахстан норм лицензирования, в том числе несоответствие квалификационным требованиям, предъявляемым к лицензируемым видам деятельности
+            </td>
+          <td class="violation ">
+            26.03.2017 
+          </td>
+          <td class="violation ">часть 1 статьи 464 </td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам соблюдения требований валютного законодательства</td>
+          <td class="violation ">Алматинский городской филиал (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4683</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=786">АО "Национальная компания "Қазақстан Ғарыш Сапары"</a></td>
+          <td class="violation  creationdate">14.02.2017</td>
+          <td class="violation ">33-3-20/850</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            нарушение требований статьи 102 Закона РК о РЦБ
+            </td>
+          <td class="violation ">
+            20.03.2017 
+          </td>
+          <td class="violation ">статья 102 Закона о РЦБ</td>
+          <td class="violation ">исполнено письмом от 16.03.2017г. №16045</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4684</td>
+          <td class="violation ">Управляющие инвестиционным портфелем</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=193">АО «АСЫЛ-ИНВЕСТ»</a></td>
+          <td class="violation  creationdate">14.02.2017</td>
+          <td class="violation ">33-1-08/861</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            В связи с  нарушением требований, установленных подпунктом 10) пункта 1 статьи 41  Закона Республики Казахстан "Об инвестиционных фондах"
+            </td>
+          <td class="violation ">
+            07.03.2017 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Исполнено письмом №079 от 24.02.2017г.</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4685</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=34">АО «ForteBank»</a></td>
+          <td class="violation  creationdate">14.02.2017</td>
+          <td class="violation ">25-4-14/189</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            
+            </td>
+          <td class="violation ">
+            27.02.2017 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам соблюдения требований валютного законодательства</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4686</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=25">ДБ АО "Сбербанк России" (прежнее наименование - АО "ТEXAКABANK")</a></td>
+          <td class="violation  creationdate">14.02.2017</td>
+          <td class="violation ">25-4-14/188</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            
+            </td>
+          <td class="violation ">
+            27.02.2017 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам соблюдения требований валютного законодательства</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4687</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=29">АО "First Heartland Jýsan Bank" (прежнее наименование - АО "Цеснабанк")</a></td>
+          <td class="violation  creationdate">14.02.2017</td>
+          <td class="violation ">25-4-14/190</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            
+            </td>
+          <td class="violation ">
+            27.02.2017 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам соблюдения требований валютного законодательства</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4688</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=1679">АО "Озенмунайгаз"</a></td>
+          <td class="violation  creationdate">13.02.2017</td>
+          <td class="violation ">170000803000042</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">226900</td>
+          <td class="violation ">
+            
+            Невыполнение субъектами рынка ценных бумаг обязанности по раскрытию информации в порядке и на условиях, определяемых законодательством РК
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation ">ст. 263</td>
+          <td class="violation ">Исполнено письмом №17934 от 30.03.2017г.</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4689</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=2090">АО "Дочернее предприятие "Актобе-Темир-ВС"</a></td>
+          <td class="violation  creationdate">13.02.2017</td>
+          <td class="violation ">170000803000087</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">226900</td>
+          <td class="violation ">
+            
+            Невыполнение субъектами рынка ценных бумаг обязанности по раскрытию информации в порядке и на условиях, определяемых законодательством РК 
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation ">ст. 263</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4690</td>
+          <td class="violation ">Брокеры-дилеры</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=22">АО "Ситибанк Казахстан"</a></td>
+          <td class="violation  creationdate">13.02.2017</td>
+          <td class="violation ">33-1-08/823</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предупреждение</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            В связи с нарушением требований пункта 6 статьи 86 Закона РК "О рынке ценных бумаг"
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4691</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=77">АО «Страховая компания «Freedom Finance Insurance» (прежнее название АО «Страховая компания «Trust Insurance»</a></td>
+          <td class="violation  creationdate">13.02.2017</td>
+          <td class="violation ">170000803000086</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">226900</td>
+          <td class="violation ">
+            
+            Невыполнение субъектами рынка ценных бумаг обязанности по раскрытию информации в порядке и на условиях, определяемых законодательством РК 
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation ">ст. 263</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4692</td>
+          <td class="violation ">Юридические лица, исключительным видом деятельности которых является организация обменных операций с наличной иностранной валютой</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=2087">ТОО "МилАнна"</a></td>
+          <td class="violation  creationdate">10.02.2017</td>
+          <td class="violation ">173500803/000009</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">181520</td>
+          <td class="violation ">
+            
+            нарушение установленных законодательством Республики Казахстан норм лицензирования, в том числе несоответствие квалификационным требованиям, предъявляемым к лицензируемым видам деятельности
+            </td>
+          <td class="violation ">
+            17.02.2017 
+          </td>
+          <td class="violation ">часть 1 статьи 464 </td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам соблюдения требований валютного законодательства</td>
+          <td class="violation ">Управление региональных представителей в городе Караганда</td>
+        </tr>
+      
+        <tr>
+          <td class="">4693</td>
+          <td class="violation ">Организация, осуществляющая микрофинансовую деятельность</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=1899">ТОО "Микрофинансовая организация "GoldFinMarket"</a></td>
+          <td class="violation  creationdate">10.02.2017</td>
+          <td class="violation ">175100803000001</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">680 700,0 тенге</td>
+          <td class="violation ">
+            
+            за повторное несоблюдение пункта 7 постановления НБ РК №382 от 24.12.2012 г.
+            </td>
+          <td class="violation ">
+            10.03.2017 
+          </td>
+          <td class="violation ">часть 4 статья 211</td>
+          <td class="violation "></td>
+          <td class="violation ">нарушение пруденциальных нормативов и (или) других обязательных к соблюдению норм и лимитов</td>
+          <td class="violation ">Управление региональных представителей в городе Шымкент</td>
+        </tr>
+      
+        <tr>
+          <td class="">4694</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=20">АО "Нурбанк"</a></td>
+          <td class="violation  creationdate">10.02.2017</td>
+          <td class="violation ">25-4-14/170</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+             
+            </td>
+          <td class="violation ">
+            22.02.2017 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам соблюдения требований валютного законодательства</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4695</td>
+          <td class="violation ">Страховые (перестраховочные) организации</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=76">АО "Страховая компания "Jýsan Garant" (прежнее наименование - АО "ДО АО "Цеснабанк" Страховая Компания "Цесна Гарант")</a></td>
+          <td class="violation  creationdate">10.02.2017</td>
+          <td class="violation ">65-40-11/456</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            После окончания процедуры расчета размера вреда, причиненного транспортному средству страховщик, не позднее 10 (десяти) рабочих дней со дня осмотра поврежденного транспортного средства не представил потерпевшему (выгодоприобретателю) или их представителям отчет о размере вреда для ознакомления. 
+            </td>
+          <td class="violation ">
+            13.03.2017 
+          </td>
+          <td class="violation ">пункт 11 Правил о определения размера вреда, причиненного транспортному средству, утвержденных постановлением Правления НБ РК №14 от 28.01.2016 г.</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам соблюдения прав потребителей финансовых услуг</td>
+          <td class="violation ">Управление региональных представителей в городе Шымкент</td>
+        </tr>
+      
+        <tr>
+          <td class="">4696</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=2080">АО "ЕПК Степногорск"</a></td>
+          <td class="violation  creationdate">10.02.2017</td>
+          <td class="violation ">33-3-20/818</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            пункт 7 статьи 9 Закона о рынке ценных бумаг
+            </td>
+          <td class="violation ">
+            15.03.2017 
+          </td>
+          <td class="violation ">пункт 7 статьи 9 Закона о рынке ценных бумаг</td>
+          <td class="violation ">исполнено письмом вх.№13829 от 06.03.2017г.</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4697</td>
+          <td class="violation ">Организация, осуществляющая микрофинансовую деятельность</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=2081">ТОО  «Микрофинансовая организация «Байтерек»</a></td>
+          <td class="violation  creationdate">09.02.2017</td>
+          <td class="violation ">52-14-21/726</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            невыполнение пруденциальных нормативов по собственному капиталу, установленных для микрофинансовых организаций  ПП НБ РК от 24.12.2012 г. № 382
+            </td>
+          <td class="violation ">
+            27.02.2017 
+          </td>
+          <td class="violation ">Пункт 2 Пруденциальных нормативов и иных обязательных к соблюдению микрофинансовой организацией норм и лимитов и методики их расчетов, а также форма и сроки представления отчетности об их выполнении, утвержденных ПП НБ РК от 24.12.2012 г. № 382</td>
+          <td class="violation "></td>
+          <td class="violation ">по выполнению нормативов минимальных резервных требований</td>
+          <td class="violation ">Алматинский городской филиал (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4698</td>
+          <td class="violation ">Страховые (перестраховочные) организации</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=40">АО "Страховая компания "Amanat"</a></td>
+          <td class="violation  creationdate">09.02.2017</td>
+          <td class="violation ">37-1-05/147</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предупреждение</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            за неисполнение мероприятий по плану 
+
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4699</td>
+          <td class="violation ">Страховые (перестраховочные) организации</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=76">АО "Страховая компания "Jýsan Garant" (прежнее наименование - АО "ДО АО "Цеснабанк" Страховая Компания "Цесна Гарант")</a></td>
+          <td class="violation  creationdate">09.02.2017</td>
+          <td class="violation ">30-1-07/632</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            За неосуществление страховых выплат 
+            </td>
+          <td class="violation ">
+            27.02.2017 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам соблюдения прав потребителей финансовых услуг</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4700</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=1033">АО "Шымкентцемент»</a></td>
+          <td class="violation  creationdate">09.02.2017</td>
+          <td class="violation ">№33-3-20/788</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            пункт 2-2 статьи 79 Закона РК "Об акционерных обществах"
+            </td>
+          <td class="violation ">
+            07.03.2017 
+          </td>
+          <td class="violation ">пункт 2-2 статьи 79 Закона РК "Об акционерных обществах"</td>
+          <td class="violation ">исполнено письмом от 27.02.2017г. №12506</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">4701</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=2210">АО "МЦПС Хоргос"</a></td>
+          <td class="violation  creationdate">09.02.2017</td>
+          <td class="violation ">33-3-20/792</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            пункт 2-2 статьи 79 закона об АО
+            </td>
+          <td class="violation ">
+            09.03.2017 
+          </td>
+          <td class="violation ">пункт 2-2 статьи 79 закона об АО</td>
+          <td class="violation ">возврат письма 12.03.2017</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+    </tbody>
+  </table>
+  

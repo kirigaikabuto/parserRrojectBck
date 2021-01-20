@@ -1,0 +1,2301 @@
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+  <table class="dataTable hover" cellpadding="10px" cellspacing="0px">
+    <thead>
+      <tr>
+        <th>№</th>
+        
+                  <th class="organizationtype sorting">
+              
+              <a href="/index.cfm?docid=3227&switch=russian&organization=&organizationid=&organizationtypeid=&typeid=&kindid=&startdate=&enddate=&npatypeid=&sourceid=&start=13601&view=new&sorting=organizationtype"><b>Тип  организации</b></a>
+                </th>
+              
+                  <th class="organization sorting">
+              
+              <a href="/index.cfm?docid=3227&switch=russian&organization=&organizationid=&organizationtypeid=&typeid=&kindid=&startdate=&enddate=&npatypeid=&sourceid=&start=13601&view=new&sorting=organization"><b>Наименование организации/ФИО</b></a>
+                </th>
+              
+                  <th class="creationdate sorting">
+              
+              <a href="/index.cfm?docid=3227&switch=russian&organization=&organizationid=&organizationtypeid=&typeid=&kindid=&startdate=&enddate=&npatypeid=&sourceid=&start=13601&view=new&sorting=creationdate"><b>Дата принятия решения/дела</b></a>
+                </th>
+              
+                  <th class="number sorting">
+              
+              <a href="/index.cfm?docid=3227&switch=russian&organization=&organizationid=&organizationtypeid=&typeid=&kindid=&startdate=&enddate=&npatypeid=&sourceid=&start=13601&view=new&sorting=number"><b>Номер принятия решения/дела</b></a>
+                </th>
+              
+                  <th class="kind sorting">
+              
+              <a href="/index.cfm?docid=3227&switch=russian&organization=&organizationid=&organizationtypeid=&typeid=&kindid=&startdate=&enddate=&npatypeid=&sourceid=&start=13601&view=new&sorting=kind"><b>Вид взыскания</b></a>
+                </th>
+              
+                  <th class="type sorting">
+              
+              <a href="/index.cfm?docid=3227&switch=russian&organization=&organizationid=&organizationtypeid=&typeid=&kindid=&startdate=&enddate=&npatypeid=&sourceid=&start=13601&view=new&sorting=type"><b>Тип взыскания</b></a>
+                </th>
+              
+                  <th class="totalsum sorting">
+              
+              <a href="/index.cfm?docid=3227&switch=russian&organization=&organizationid=&organizationtypeid=&typeid=&kindid=&startdate=&enddate=&npatypeid=&sourceid=&start=13601&view=new&sorting=totalsum"><b>Наложенное взыскание</b></a>
+                </th>
+              
+              <th class="content">Существо нарушения</th>
+            
+              <th class="deadline">Срок исполнения</th>
+            
+              <th class="article">Статья/пункты НПА, Статья КоАП</th>
+            
+              <th class="comment">Примечание</th>
+            
+                  <th class="npatype sorting">
+              
+              <a href="/index.cfm?docid=3227&switch=russian&organization=&organizationid=&organizationtypeid=&typeid=&kindid=&startdate=&enddate=&npatypeid=&sourceid=&start=13601&view=new&sorting=npatype"><b>Тип НПА</b></a>
+                </th>
+              
+                  <th class="source sorting">
+              
+              <a href="/index.cfm?docid=3227&switch=russian&organization=&organizationid=&organizationtypeid=&typeid=&kindid=&startdate=&enddate=&npatypeid=&sourceid=&start=13601&view=new&sorting=source"><b>Наименование ТФ НБ РК/департамента ЦФ</b></a>
+                </th>
+              
+        
+      </tr>
+    </thead>
+    <tbody>
+      
+        <tr>
+          <td class="">13601</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=693">АО "КМК Мунай"</a></td>
+          <td class="violation  creationdate">14.03.2011</td>
+          <td class="violation ">10-01-04/1448/4965</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            нарушение требований пункта 4 статьи 67 ЗРК  «Об акционерных обществах»
+            </td>
+          <td class="violation ">
+            до 07.04.2011 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13602</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=789">АО "Национальная компания "Социально-предпринимательская корпорация "Оңтүстік"</a></td>
+          <td class="violation  creationdate">11.03.2011</td>
+          <td class="violation ">10-011-04/1421/4866</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            нарушение требований пункта 25 Правил государственной регистрации выпуска объявленных акций, утверждения отчета об итогах размещения акций и аннулирования выпуска акций, утвержденных постановлением Правления Агентства Республики Казахстан от 30 июля 2005 года № 268, а также пункта 2 статьи 24 и пункта 4 статьи 9 ЗРК "О рынке ценных бумаг" 
+            </td>
+          <td class="violation ">
+            до 08.04.2011 (отчет об итогах размещения акций за период со 02 апреля по 01 октября 2010 г.) 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13603</td>
+          <td class="violation ">Брокеры-дилеры</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=1164">АО «Инвестиционный Финансовый Дом «RESMI»</a></td>
+          <td class="violation  creationdate">10.03.2011</td>
+          <td class="violation ">05-02-09/356/4716-И</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письмо-обязательство</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            О необходимости представить письмо-обязательство, содержащее факт признания имеющихся недостатков и гарантию руководства по их устранению в строго определенные сроки и недопущению впредь подобных нарушений с указанием перечня запланированных мероприятий
+            </td>
+          <td class="violation ">
+            25.03.2011 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Исполнено письмом от 25.03.11 вх. № 10276 
+</td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13604</td>
+          <td class="violation ">Брокеры-дилеры</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=193">АО «АСЫЛ-ИНВЕСТ»</a></td>
+          <td class="violation  creationdate">10.03.2011</td>
+          <td class="violation ">05-02-09/351/4707-И</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письмо-обязательство</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            О необходимости представить письмо-обязательство, содержащее факт признания имеющихся недостатков и гарантию руководства по их устранению в строго определенные сроки и недопущению впредь подобных нарушений с указанием перечня запланированных мероприятий
+            </td>
+          <td class="violation ">
+            25.03.2011 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Исполнено письмом от 16.03.11 вх. № 9630 
+</td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13605</td>
+          <td class="violation ">Управляющие инвестиционным портфелем</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=1164">АО «Инвестиционный Финансовый Дом «RESMI»</a></td>
+          <td class="violation  creationdate">10.03.2011</td>
+          <td class="violation ">05-02-09/356/4716-И</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письмо-обязательство</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            О необходимости представить письмо-обязательство, содержащее факт признания имеющихся недостатков и гарантию руководства по их устранению в строго определенные сроки и недопущению впредь подобных нарушений с указанием перечня запланированных мероприятий
+            </td>
+          <td class="violation ">
+            25.03.2011 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Исполнено письмом от 25.03.11 вх. № 10276 
+</td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13606</td>
+          <td class="violation ">Управляющие инвестиционным портфелем</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=193">АО «АСЫЛ-ИНВЕСТ»</a></td>
+          <td class="violation  creationdate">10.03.2011</td>
+          <td class="violation ">05-02-09/351/4707-И</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письмо-обязательство</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            О необходимости представить письмо-обязательство, содержащее факт признания имеющихся недостатков и гарантию руководства по их устранению в строго определенные сроки и недопущению впредь подобных нарушений с указанием перечня запланированных мероприятий
+            </td>
+          <td class="violation ">
+            25.03.2011 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Исполнено письмом от 16.03.11 вх. № 9630 
+</td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13607</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=4">АО ДБ "Альфа-Банк"</a></td>
+          <td class="violation  creationdate">10.03.2011</td>
+          <td class="violation ">10-01-14/1399/4751-И</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письмо-обязательство</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            В соответствии со статьей 46 Закона о банках РК , у банка затребовано письмо-обязательство, за нарушение требований пункта 4 статьи 9 Закона РК «О рынке ценных бумаг».
+
+            </td>
+          <td class="violation ">
+            05.04.2011 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Исполнено письмом  №9493 от 15.03.11
+</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13608</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=36">АО "Шинхан Банк Казахстан"</a></td>
+          <td class="violation  creationdate">09.03.2011</td>
+          <td class="violation ">04-01-14/315/4630-И</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письмо-обязательство</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            В соответствии со статьей 46 Закона о банках РК, у банка затребовано письмо-обязательство  за нарушение коэффициента максимального размера риска на одного заемщика, связанного с банком особыми отношениями.
+
+            </td>
+          <td class="violation ">
+            18.03.2011 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Исполнено письмом №277 от 11.03.2011</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13609</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=487">АО "Башня - 2006"</a></td>
+          <td class="violation  creationdate">05.03.2011</td>
+          <td class="violation ">10-01-14/1355/4523-и</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            нарушение требований пункта 4 статьи 67 ЗРК  «Об акционерных обществах» 
+            </td>
+          <td class="violation ">
+            до 28.03.2011 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">исполнено (вх.№10467, от 28.03.11)</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13610</td>
+          <td class="violation ">Страховые (перестраховочные) организации</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=67">АО "СК "ЭкоПолис"</a></td>
+          <td class="violation  creationdate">04.03.2011</td>
+          <td class="violation ">06-01-11/271</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное соглашение</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            за недостаточный размер фактической маржи платежеспособности, повлекший нарушение пруденциальных нормативов
+            </td>
+          <td class="violation ">
+            01.05.2011 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Выполнено </td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13611</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=5">АО "Альянс Банк"</a></td>
+          <td class="violation  creationdate">04.03.2011</td>
+          <td class="violation ">19</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">151200</td>
+          <td class="violation ">
+            
+            административное правонарушение выразилось в невыполнении обязанности возложенной уполномоченным органом посредством применения ограниченной меры воздействия.
+            </td>
+          <td class="violation ">
+            04.03.2011 
+          </td>
+          <td class="violation ">ст.168-2 ч.2</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13612</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=5">АО "Альянс Банк"</a></td>
+          <td class="violation  creationdate">04.03.2011</td>
+          <td class="violation ">04-01-08/300/4449-И</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письмо-обязательство</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            В соответствии со статьей 46 Закона о банках РК, у банка затребовано письмо-обязательство  за нарушение коэффициента максимального размера инвестиций банка в основные средства и другие нефинансовые активы.
+            </td>
+          <td class="violation ">
+            14.03.2011 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Исполнено письмом №10/383k от 14.03.2011
+</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13613</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=770">АО "НАРОДНАЯ КОМПАНИЯ "АЛТЫН КАЛКАН"</a></td>
+          <td class="violation  creationdate">04.03.2011</td>
+          <td class="violation ">10-01-06/1328/447-и</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            нарушение требований пункта 2 статьи 24 ЗРК "О рынке ценных бумаг", пункта 4 статьи 67 ЗРК  «Об акционерных обществах» 
+            </td>
+          <td class="violation ">
+            до 18.04.2011 (отчет об итогах размещения и (или) уведомление о неразмещении облигаций 1,2 выпусков), отчёт о погашении облигаций првого выпуска, списки аффилиированных лиц) 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13614</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=34">АО «ForteBank»</a></td>
+          <td class="violation  creationdate">04.03.2011</td>
+          <td class="violation ">04-01-08/300/4449-И</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письмо-обязательство</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            В соответствии со статьей 46 Закона о банках РК, у банка затребовано письмо-обязательство  за нарушение коэффициента максимального размера инвестиций банка в основные средства и другие нефинансовые активы.
+            </td>
+          <td class="violation ">
+            14.03.2011 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Исполнено письмом №10/383k от 14.03.2011
+</td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13615</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=592">АО "КазАгроГарант"</a></td>
+          <td class="violation  creationdate">03.03.2011</td>
+          <td class="violation ">10-01-04/1288/4331</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письмо-обязательство</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            нарушение требований пункта 25 Правил государственной регистрации выпуска объявленных акций, утверждения отчета об итогах размещения акций и аннулирования выпуска акций, утвержденных постановлением Правления Агентства Республики Казахстан от 30 июля 2005 года № 268
+            </td>
+          <td class="violation ">
+            до 04.04.2011 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">исполнено (письмо-обязательство представлено вх.№11392 от 04.04.11)</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13616</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=27">АО "БТА Банк"</a></td>
+          <td class="violation  creationdate">02.03.2011</td>
+          <td class="violation ">04-01-08/278/4115-И</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            В соответствии со статьей 46 Закона о банках РК, банку вынесено письменное предписание за невыполнение норм Инструкции о требованиях к наличию систем управления рисками и внутреннего контроля в банках второго уровня, утвержденной постановлением Правления Агентства от 30 сентября 2005 года №359.
+            </td>
+          <td class="violation ">
+            09.03.2011 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Исполнено письмом от 05.03.2011г. за №01-264-2-2/1058</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13617</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=35">АО "Банк "Астана-Финанс"</a></td>
+          <td class="violation  creationdate">02.03.2011</td>
+          <td class="violation ">04-01-08/279/4117</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письмо-обязательство</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            В соответствии со статьей 46 Закона о банках РК, у банка затребовано письмо-обязательство, за нарушение коэффициента размещения части средств во внутренние активы.
+            </td>
+          <td class="violation ">
+            05.03.2011 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Исполнено письмом от 04.03.2011г. за №20/411</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13618</td>
+          <td class="violation ">Страховые (перестраховочные) организации</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=54">АО "Страховая  компания "Казахмыс"</a></td>
+          <td class="violation  creationdate">02.03.2011</td>
+          <td class="violation ">06-01-11/270</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушены пруденциальные нормативы по состоянию на 10.01.11г., 20.01.11г., 01.02.2011г., 10.02.2011г., 20.02.2011г
+            </td>
+          <td class="violation ">
+            30.04.2011 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Выполнено </td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13619</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=482">АО "Банк Астаны"</a></td>
+          <td class="violation  creationdate">02.03.2011</td>
+          <td class="violation ">04-01-08/279/4117</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письмо-обязательство</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            В соответствии со статьей 46 Закона о банках РК, у банка затребовано письмо-обязательство, за нарушение коэффициента размещения части средств во внутренние активы.
+            </td>
+          <td class="violation ">
+            05.03.2011 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Исполнено письмом от 04.03.2011г. за №20/411</td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13620</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=768">АО "НАО "Haileybury Almaty"</a></td>
+          <td class="violation  creationdate">01.03.2011</td>
+          <td class="violation ">10-01-06/1227/4070</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письмо-обязательство</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            нарушение требований пункта 2 статьи 24 ЗРК "О рынке ценных бумаг" 
+            </td>
+          <td class="violation ">
+            до 16.03.2011 (письмо-обязательтво), до 30.03.2011 (отчет об итогах размещения акций за период с 8 апреля по 8 октября 2010 г.) 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">исполнено (письмо-обязательство представлено вх.№8923 от 10.03.11)</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13621</td>
+          <td class="violation ">Брокеры-дилеры</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=1160">АО «Финансовая компания «REAL-INVEST.kz» </a></td>
+          <td class="violation  creationdate">01.03.2011</td>
+          <td class="violation ">21</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">105 840тг.</td>
+          <td class="violation ">
+            
+            административное правонарушение выразилось в представлении уполномоченному органу недостоверной отчетности о своей деятельности.
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation ">ч. 1 ст. 193</td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13622</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=36">АО "Шинхан Банк Казахстан"</a></td>
+          <td class="violation  creationdate">01.03.2011</td>
+          <td class="violation "></td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам соблюдения требований правил автоматизации ведения бухгалтерского учета</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">13623</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=17">АО "Народный сберегательный банк Казахстана"</a></td>
+          <td class="violation  creationdate">01.03.2011</td>
+          <td class="violation ">29304/537</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письмо-обязательство</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований Инструкции о требованиях к организационным мерам и программно-техническим средствам, обеспечивающим доступ банков и организаций, осуществляющих отдельные виды банковских операций, в платежные системы РГП «КЦМР НБРК», утвержденной постановлением Правления Национального Банка РК от 28.11.2008  №95.
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам соблюдения законодательства по платежам и переводам денег</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">13624</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=788">АО "Национальная компания "Социально предпринимательская корпорация"Каспий"</a></td>
+          <td class="violation  creationdate">01.03.2011</td>
+          <td class="violation ">10-01-14/1197/3982</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            нарушение требований пункта 2 статьи 24 ЗРК "О рынке ценных бумаг"
+            </td>
+          <td class="violation ">
+            до 30.03.2011 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13625</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=740">АО "Мангистауский комбинат дорожно-строительных материалов"</a></td>
+          <td class="violation  creationdate">28.02.2011</td>
+          <td class="violation ">10-01-14/1197/3981</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            нарушение требований пункта 4 статьи 67 ЗРК «Об акционерных обществах» 
+            </td>
+          <td class="violation ">
+            до 25.03.2011 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13626</td>
+          <td class="violation ">Страховые (перестраховочные) организации</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=68">АО "Чартис Казахстан Страховая Компания" (прежнее наименование - АО "СК "ЭйАйДжи Казахстан")</a></td>
+          <td class="violation  creationdate">28.02.2011</td>
+          <td class="violation ">06-01-11/255</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушены пруденциальные нормативы по состоянию на 10.01.11г. , 20.01.11г.. 01.02.2011г., 10.02.2011г., 20.02.2011г. 
+            </td>
+          <td class="violation ">
+            30.04.2011 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Выполнено </td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13627</td>
+          <td class="violation ">Страховые (перестраховочные) организации</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=60">АО "Страховая компания "НОМАД Иншуранс"</a></td>
+          <td class="violation  creationdate">28.02.2011</td>
+          <td class="violation ">10-02-01/874</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письмо-обязательство</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требования пункта 2 статьи 33 Закона Республики Казахстан «О страховой деятельности»                                   
+
+            </td>
+          <td class="violation ">
+            28.02.2011 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Представлено</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13628</td>
+          <td class="violation ">Страховые (перестраховочные) организации</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=73">АО «Страховая компания «STANDARD» (прежнее наименование - АО СК "Астана- Финанс")</a></td>
+          <td class="violation  creationdate">25.02.2011</td>
+          <td class="violation ">10-02-01/1122</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письмо-обязательство</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            за нарушение требования пункта 2 статьи 33 Закона Республики Казахстан "О страховой деятельности"
+            </td>
+          <td class="violation ">
+            11.03.2011 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Представлено</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13629</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=266">АО "AES Усть-Каменогорская ТЭЦ"</a></td>
+          <td class="violation  creationdate">25.02.2011</td>
+          <td class="violation ">10-01-14/1147/3866-И</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письмо-обязательство</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            нарушение требований пункта 5 статьи 54 ЗРК  «Об акционерных обществах», пункта 2 статьи 9 и пункта 4 статьи 67 ЗРК "О рынке ценных бумаг"
+            </td>
+          <td class="violation ">
+            до 11.04.2011 (письмо-обязат.), до 25.04.2011 г.  (изменения и дополнения в проспект выпуска акций) 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13630</td>
+          <td class="violation ">Управляющие инвестиционным портфелем</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=1188">АО «SkyBridge Invest»</a></td>
+          <td class="violation  creationdate">25.02.2011</td>
+          <td class="violation ">05-01-18/267/3807</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письмо-обязательство</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            касательно гарантии руководства по недопущению впредь нарушения подпункта 7) пункта 33 Правил по УИП                                
+            </td>
+          <td class="violation ">
+            03.03.2011 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">исполнено письмом от 03.03.11г. № 73</td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13631</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=919">АО "Соколовско-Сарбайское горно-обогатительное производственное объединение"</a></td>
+          <td class="violation  creationdate">25.02.2011</td>
+          <td class="violation ">10-01-14/1171/3891-И</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письмо-обязательство</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            нарушение требований пункта 4 статьи 67 ЗРК «Об акционерных обществах» 
+            </td>
+          <td class="violation ">
+            до 25.03.2011 (письмо-обязательство, сведения об аффилиированных лицах, изменения и дополнения в проспект выпуска акций в связи с утверждением методики), до 18.04.2011 (изменения и дополнения в пункт 12 проспект выпуска акций ) 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13632</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=1">АО "First Heartland Bank"  (прежнее наименование - АО "Банк ЭкспоКредит")</a></td>
+          <td class="violation  creationdate">24.02.2011</td>
+          <td class="violation ">29304/476</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письмо-обязательство</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований Правил ведения кассовых операций и операций по инкассации банкнот, монет и ценностей в банках второго уровня и организациях, осуществляющих отдельные виды банковских операций, Республики Казахстан, утвержденных постановлением Правления Национального Банка Республики Казахстан от 3 марта 2001  №58.
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам соблюдения законодательства по платежам и переводам денег</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">13633</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=618">АО "Казахстанская компания инвестиций и развития"</a></td>
+          <td class="violation  creationdate">24.02.2011</td>
+          <td class="violation ">10-01-06/1117/3735</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письмо-обязательство</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            нарушение требований пункта 2 статьи 24 ЗРК "О рынке ценных бумаг"
+            </td>
+          <td class="violation ">
+            до 15.03.2011 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13634</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=21">АО "Qazaq Banki"</a></td>
+          <td class="violation  creationdate">24.02.2011</td>
+          <td class="violation ">20</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">151200</td>
+          <td class="violation ">
+            
+            административное правонарушение выразилось в предоставлении в Агентство информации, не содержащей сведений, предоставление которых требуется в соответствии с банковским законодательством.
+            </td>
+          <td class="violation ">
+            24.02.2011 
+          </td>
+          <td class="violation ">ч. 1 ст. 168-2</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13635</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=350">АО "WHITE FISH OF KAZAKHSTAN"</a></td>
+          <td class="violation  creationdate">23.02.2011</td>
+          <td class="violation ">10-01-11/1089/3630-И</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            нарушение требований пункта 4 статьи 67 ЗРК  «Об акционерных обществах» 
+            </td>
+          <td class="violation ">
+            до 18.04.2011 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13636</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=635">АО "Казахэнергоэкспертиза"                           (г. Астана, ул.Кенесары, 40, БЦ "7 Континент", 14 эт)</a></td>
+          <td class="violation  creationdate">22.02.2011</td>
+          <td class="violation ">10-01-14/1066/3564-И</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            нарушение требований пункта 4 статьи 67 ЗРК  «Об акционерных обществах» 
+            </td>
+          <td class="violation ">
+            до 18.04.2011 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13637</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=786">АО "Национальная компания "Қазақстан Ғарыш Сапары"</a></td>
+          <td class="violation  creationdate">22.02.2011</td>
+          <td class="violation ">10-01-14/1067/3565-И</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            нарушение требований пункта 4 статьи 67 ЗРК «Об акционерных обществах» 
+            </td>
+          <td class="violation ">
+            до 14.03.2011 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13638</td>
+          <td class="violation ">Страховые (перестраховочные) организации</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=64">АО "СК "ТрансОйл"</a></td>
+          <td class="violation  creationdate">22.02.2011</td>
+          <td class="violation ">06-01-11/221/3524</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письмо-обязательство</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований Закона РК "Об обязательном страховании гражданско-правовой ответственности владельцев транспортных средств", в части расчета страховых премий
+            </td>
+          <td class="violation ">
+            02.03.2011 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Представлено</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13639</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=27">АО "БТА Банк"</a></td>
+          <td class="violation  creationdate">22.02.2011</td>
+          <td class="violation ">04-01-08/253/3495-И</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письмо-обязательство</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            В соответствии со статьей 46 Закона о банках РК, у банка затребовано письмо-обязательство, за нарушение коэффициента размещения части средств во внутренние активы.
+            </td>
+          <td class="violation ">
+            28.02.2011 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13640</td>
+          <td class="violation ">Страховые (перестраховочные) организации</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=43">АО "СК "Альянс Полис"</a></td>
+          <td class="violation  creationdate">22.02.2011</td>
+          <td class="violation ">06-01-11/229</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письмо-обязательство</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            выявлено расхождение данных в отчете о расчете коэффициента убыточности по состоянию на 01.02.11г. 
+            </td>
+          <td class="violation ">
+            04.03.2011 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Представлено</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13641</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=262">АО " Санаторий Арка"</a></td>
+          <td class="violation  creationdate">22.02.2011</td>
+          <td class="violation ">10-01-14/1059/3552</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письмо-обязательство</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            нарушение требований пункта 4 статьи 67 ЗРК «Об акционерных обществах», пункта 26 Правил государственной регистрации выпуска объявленных акций, утверждения отчета об итогах размещения акций и аннулирования выпуска акций, утвержденных постановлением Правления Агентства Республики Казахстан от 30 июля 2005 года № 268 
+            </td>
+          <td class="violation ">
+            представление письма-обязательства до 14.03.2011 г., сведения по аффилиированным лицам до 28.03.11 г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13642</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=28">АО "Банк ЦентрКредит"</a></td>
+          <td class="violation  creationdate">21.02.2011</td>
+          <td class="violation ">29304/444</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письмо-обязательство</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований Закона РК «О платежах и переводах денег»
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам соблюдения законодательства по платежам и переводам денег</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">13643</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=288">АО "Caspian Beverage Holding"</a></td>
+          <td class="violation  creationdate">21.02.2011</td>
+          <td class="violation ">10-01-06/379/1185-И</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            нарушение требований пункта 2 статьи 24 ЗРК "О рынке ценных бумаг", пункта 4 статьи 67 ЗРК «Об акционерных обществах» 
+            </td>
+          <td class="violation ">
+            до 24.02.2011 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13644</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=662">АО "Казтранссервис"</a></td>
+          <td class="violation  creationdate">21.02.2011</td>
+          <td class="violation ">10-01-04/1005/3392</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письмо-обязательство</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            нарушение требований пункта 4 статьи 67 ЗРК  «Об акционерных обществах», пункта 4 статьи 9 ЗРК "О рынке ценных бумаг" 
+            </td>
+          <td class="violation ">
+            до 14.03.2011 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13645</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=857">АО "Промышленно-торговая компания "АСЫЛ"</a></td>
+          <td class="violation  creationdate">21.02.2011</td>
+          <td class="violation ">10-01-06/1022/3433</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            нарушение требований пункта 4 статьи 67 ЗРК  «Об акционерных обществах» 
+            </td>
+          <td class="violation ">
+            до 14.03.2011 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13646</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=543">АО "Жезказганская распределительная электросетевая компания"</a></td>
+          <td class="violation  creationdate">21.02.2011</td>
+          <td class="violation ">10-01-14/985/3317</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            нарушение требований пункта 4 статьи 9 ЗРК "О рынке ценных бумаг" 
+            </td>
+          <td class="violation ">
+            до 28.07.2011 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13647</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=710">АО "Корпорация "Ордабасы"</a></td>
+          <td class="violation  creationdate">21.02.2011</td>
+          <td class="violation ">10-01-14/979/3309-И</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            нарушение требований пункта 26 Правил государственной регистрации выпуска объявленных акций, утверждения отчета об итогах размещения акций и аннулирования выпуска акций, утвержденных постановлением Правления Агентства Республики Казахстан от 30 июля 2005 года № 268 
+            </td>
+          <td class="violation ">
+            до 25.04.2011 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13648</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=457">АО "Астана - Недвижимость"</a></td>
+          <td class="violation  creationdate">21.02.2011</td>
+          <td class="violation ">10-01-06/607/1938</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письмо-обязательство</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            нарушение требований пункта 4 статьи 67 ЗРК  «Об акционерных обществах» 
+            </td>
+          <td class="violation ">
+            до 01.03.2011 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">исполнено (вх. 7604 от 28.02.11 г.)</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13649</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=467">АО "Атамекен-Агро"</a></td>
+          <td class="violation  creationdate">18.02.2011</td>
+          <td class="violation ">10-01-14/964/3289-И</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письмо-обязательство</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            нарушение требований пункта 4 статьи 67 ЗРК  «Об акционерных обществах» 
+            </td>
+          <td class="violation ">
+            до 14.03.2011 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">исполнено (вх. №6745 от 21.02.11 г.)</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13650</td>
+          <td class="violation ">Управляющие инвестиционным портфелем</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=306">АО "Homebroker"</a></td>
+          <td class="violation  creationdate">18.02.2011</td>
+          <td class="violation ">05-01-18/223/3214</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            
+            </td>
+          <td class="violation ">
+            01.04.2011 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13651</td>
+          <td class="violation ">Управляющие инвестиционным портфелем</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=1386">АО «Lancaster Invest»</a></td>
+          <td class="violation  creationdate">18.02.2011</td>
+          <td class="violation ">05-01-18/224/3215</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            В связи с нарушением  требования установленного подпунктом 3) пункта 7 статьи 37 Закона Республики Казахстан "Об инвестиционых фондах", а именно размера вложения за счет активов инветсиционныого фонда в ценные бумаги или финансовые интрументы выпущенные одним лицом    
+            </td>
+          <td class="violation ">
+            01.04.2011 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">не исполнено, подписано письменное соглашение от 05.07.2011 №08</td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13652</td>
+          <td class="violation ">Управляющие инвестиционным портфелем</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=300">АО "Gold Investment Group" </a></td>
+          <td class="violation  creationdate">18.02.2011</td>
+          <td class="violation ">05-01-18/225/3217-И</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Об устранении нарушений подпункта 3) пункта 7 статьи 37 Закона РК "Об инвестиционных фондах"
+            </td>
+          <td class="violation ">
+            01.04.2011 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">исполнено письмом от 28.02.2011г. № 37/38</td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13653</td>
+          <td class="violation ">Страховые (перестраховочные) организации</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=70">АО "Компания по страхованию жизни "Казкоммерц-Life" (ДО АО "Казкоммерцбанк")</a></td>
+          <td class="violation  creationdate">17.02.2011</td>
+          <td class="violation ">06-02-05/200</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            По результатам инспекторской проверки 
+            </td>
+          <td class="violation ">
+            18.03.2011 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Выполнено</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13654</td>
+          <td class="violation ">Страховые (перестраховочные) организации</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=70">АО "Компания по страхованию жизни "Казкоммерц-Life" (ДО АО "Казкоммерцбанк")</a></td>
+          <td class="violation  creationdate">17.02.2011</td>
+          <td class="violation ">06-02-05/199</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письмо-обязательство</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            По результатам инспекторской проверки
+            </td>
+          <td class="violation ">
+            04.03.2011 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Представлено</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13655</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=30">АО "Эксимбанк Казахстан"</a></td>
+          <td class="violation  creationdate">17.02.2011</td>
+          <td class="violation ">17</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">37855313</td>
+          <td class="violation ">
+            
+            административное правонарушение выразилось в осуществлении сделок, запрещенных в соответствии с законодательством РК. 
+            </td>
+          <td class="violation ">
+            17.02.2011 
+          </td>
+          <td class="violation ">ч. 5 ст. 168-2 </td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13656</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=21">АО "Qazaq Banki"</a></td>
+          <td class="violation  creationdate">17.02.2011</td>
+          <td class="violation ">16</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">151200</td>
+          <td class="violation ">
+            
+            административное правонарушение выразилось в предоставлении в уполномоченный орган недостоверных сведений.
+            </td>
+          <td class="violation ">
+            17.02.2011 
+          </td>
+          <td class="violation ">ч.1 ст. 168-2</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13657</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=21">АО "Qazaq Banki"</a></td>
+          <td class="violation  creationdate">17.02.2011</td>
+          <td class="violation ">18</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">151200</td>
+          <td class="violation ">
+            
+            административное правонарушение выразилось в предоставлении в уполномоченный орган недостоверных сведений. 
+            </td>
+          <td class="violation ">
+            17.02.2011 
+          </td>
+          <td class="violation ">ч.1 ст. 168-2 </td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13658</td>
+          <td class="violation ">Страховые (перестраховочные) организации</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=56">АО "СК "Коммеск-Өмір"</a></td>
+          <td class="violation  creationdate">16.02.2011</td>
+          <td class="violation "></td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам соблюдения требований правил автоматизации ведения бухгалтерского учета</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">13659</td>
+          <td class="violation ">Организации, единственным акционером (участником) которых является государство</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=1054">АО «Казпочта»</a></td>
+          <td class="violation  creationdate">15.02.2011</td>
+          <td class="violation ">29304/407</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письмо-обязательство</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований Инструкции о требованиях к организационным мерам и программно-техническим средствам, обеспечивающим доступ банков и организаций, осуществляющих отдельные виды банковских операций, в платежные системы РГП «КЦМР НБРК», утвержденной постановлением Правления Национального Банка РК от 28.11.2008  №95.
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам соблюдения законодательства по платежам и переводам денег</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">13660</td>
+          <td class="violation ">Страховые (перестраховочные) организации</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=60">АО "Страховая компания "НОМАД Иншуранс"</a></td>
+          <td class="violation  creationdate">15.02.2011</td>
+          <td class="violation ">10-02-01/874/2937</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письмо-обязательство</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            
+            </td>
+          <td class="violation ">
+            28.02.2011 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13661</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=21">АО "Qazaq Banki"</a></td>
+          <td class="violation  creationdate">15.02.2011</td>
+          <td class="violation ">15</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">75600</td>
+          <td class="violation ">
+            
+            административное правонарушение выразилось в осуществлении сделок в нарушение банковского законодательства РК.
+            </td>
+          <td class="violation ">
+            15.02.2011 
+          </td>
+          <td class="violation ">ч. 5 ст. 168-2</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13662</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=21">АО "Qazaq Banki"</a></td>
+          <td class="violation  creationdate">15.02.2011</td>
+          <td class="violation ">14</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">151200</td>
+          <td class="violation ">
+            
+            административное правонарушение выразилось в предоставлении в Агентство информации, не содержащей сведений, предоставление которых требуется в соответствии с банковским законодательством 
+            </td>
+          <td class="violation ">
+            15.02.2011 
+          </td>
+          <td class="violation ">ч.1 ст.168-2</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13663</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=1025">АО "ЦЕНТРАЛЬНЫЙ ПЛАВАТЕЛЬНЫЙ БАССЕЙН"</a></td>
+          <td class="violation  creationdate">15.02.2011</td>
+          <td class="violation ">10-01-14/889/2990-И</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письмо-обязательство</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            нарушение требований пункта 4 статьи 67 ЗРК  «Об акционерных обществах» 
+            </td>
+          <td class="violation ">
+            до 10.03.2011 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">исполнено (вх. №7079 от 23.02.11 г.)</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13664</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=660">АО "КазТрансГаз - Алматы"</a></td>
+          <td class="violation  creationdate">15.02.2011</td>
+          <td class="violation ">10-01-04/866/2919</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письмо-обязательство</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            нарушение требований пункта 4 статьи 9 ЗРК "О рынке ценных бумаг" 
+            </td>
+          <td class="violation ">
+            до 28.02.2011 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">исполнено (вх. №7410 от 25.02.11 г.)</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13665</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=764">АО "Мунаймаш"</a></td>
+          <td class="violation  creationdate">11.02.2011</td>
+          <td class="violation ">10-01-14/829/2754</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            нарушение требований пункта 4 статьи 67 ЗРК  «Об акционерных обществах»
+            </td>
+          <td class="violation ">
+            до 30.04.2011 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13666</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=328">АО "Nova Лизинг"</a></td>
+          <td class="violation  creationdate">11.02.2011</td>
+          <td class="violation ">10-01-14/842/2787-И</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            нарушение требований пункта 2 статьи 24 ЗРК "О рынке ценных бумаг"
+            </td>
+          <td class="violation ">
+            до 07.03.2011 (представить уведомления о неразмещении акций за периоды, начиная с 15.11.08 г.) 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13667</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=21">АО "Qazaq Banki"</a></td>
+          <td class="violation  creationdate">11.02.2011</td>
+          <td class="violation ">04-03-04/200/2748-и</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предупреждение</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            В соответсвии со статьей 46 Закона о банках РК, Банку вынесено письменное предупреждение за нарушение пункта 2 статьи 40 Закона о банка РК, в части выдачи займов без обеспечения, лицам, связанным с ним особыми отношениями, а также в связи с нарушением расчета текущей стоимости и купонного вознаграждения ценных бумаг в портфеле Банка.
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">не предусмотрен</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13668</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=28">АО "Банк ЦентрКредит"</a></td>
+          <td class="violation  creationdate">10.02.2011</td>
+          <td class="violation ">04-02-04/192/2629-и</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            В соответствии со статьей 46 Закона о банках РК, банку вынесено письменное предписание в связи с нарушением требований пункта 7 статьи 40 Закона о банках РК в части нарушения требований о принятии участия в решениях по сделкам с лицами, связанными особыми отношениями с Банком.
+            </td>
+          <td class="violation ">
+            25.02.2011 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13669</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=849">АО "Пионер-1"                           (г. Шымкент, ул. Туркестанская, 11В)</a></td>
+          <td class="violation  creationdate">10.02.2011</td>
+          <td class="violation ">10-01-14/817/2651</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            нарушение требований пункта 4 статьи 67 ЗРК «Об акционерных обществах» 
+            </td>
+          <td class="violation ">
+            до 18.03.2011 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13670</td>
+          <td class="violation ">Страховые (перестраховочные) организации</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=74">АО "Компания по страхованию жизни  "Nomad Life" (прежнее наименование АО "КСЖ "Астана-Финанс")</a></td>
+          <td class="violation  creationdate">09.02.2011</td>
+          <td class="violation ">02-04-33/235</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            несвоевременное представление расчета пруденциальных нормативов по состоянию на 01.01.11г. 
+            </td>
+          <td class="violation ">
+            16.02.2011 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Выполнено</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13671</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=935">АО "Стройспецторг"                           (г. Алматы, ул.Манаса, 32А, оф. 511)</a></td>
+          <td class="violation  creationdate">09.02.2011</td>
+          <td class="violation ">10-01-14/804/2565</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            нарушение требований пункта 4 статьи 67 ЗРК  «Об акционерных обществах» 
+            </td>
+          <td class="violation ">
+            до 31.03.2011 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13672</td>
+          <td class="violation ">Страховые (перестраховочные) организации</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=64">АО "СК "ТрансОйл"</a></td>
+          <td class="violation  creationdate">09.02.2011</td>
+          <td class="violation ">02-04-33/237</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            несвоевременное представление расчета пруденциальных нормативов по состоянию на 01.01.11г. 
+            </td>
+          <td class="violation ">
+            16.02.2011 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Выполнено </td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13673</td>
+          <td class="violation ">Страховые (перестраховочные) организации</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=62">АО "СК "САЯ"</a></td>
+          <td class="violation  creationdate">09.02.2011</td>
+          <td class="violation ">02-04-33/240</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            несвоевременное представление расчета пруденциальных нормативов по состоянию на 01.01.11г. 
+            </td>
+          <td class="violation ">
+            16.02.2011 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Выполнено</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13674</td>
+          <td class="violation ">Страховые (перестраховочные) организации</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=42">АО "СК "Kompetenz" (прежнее наименование - ДО  Европейского акционерного общества " Allianz S.E." АО СК "Allianz Kazakhstan")</a></td>
+          <td class="violation  creationdate">09.02.2011</td>
+          <td class="violation ">02-04-33/239</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            несвоевременное представление расчета пруденциальных нормативов по состоянию на 01.01.11г. 
+            </td>
+          <td class="violation ">
+            16.02.2011 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Выполнено </td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13675</td>
+          <td class="violation ">Страховые (перестраховочные) организации</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=52">АО "Дочерняя организация Народного Банка Казахстана "Страховая компания "Халык" ( прежнее наименование - АО "Дочерняя Страховая компания Народного Банка Казахстана "Халык-Казахинстрах")</a></td>
+          <td class="violation  creationdate">09.02.2011</td>
+          <td class="violation ">02-04-33/238</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            несвоевременное представление расчета пруденциальных нормативов по состоянию на 01.01.11г. 
+            </td>
+          <td class="violation ">
+            16.02.2011 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Выполнено </td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13676</td>
+          <td class="violation ">Страховые (перестраховочные) организации</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=72">АО "Компания по страхованию жизни "Standard Life"  (прежнее наименование АО "КСЖ "Grandes")</a></td>
+          <td class="violation  creationdate">09.02.2011</td>
+          <td class="violation ">02-04-33/236</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            несвоевременное представление расчета пруденциальных нормативов по состоянию на 01.01.11г. 
+            </td>
+          <td class="violation ">
+            16.02.2011 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Выполнено </td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13677</td>
+          <td class="violation ">Страховые (перестраховочные) организации</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=61">АО "СК "Пана Иншуранс"</a></td>
+          <td class="violation  creationdate">08.02.2011</td>
+          <td class="violation ">5</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation "></td>
+          <td class="violation ">75600</td>
+          <td class="violation ">
+            
+            административное правонарушение выразилось в несвоевременном осуществлении страховых выплат. 
+            </td>
+          <td class="violation ">
+            08.02.2011 
+          </td>
+          <td class="violation ">ст.174 ч.2</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13678</td>
+          <td class="violation ">Страховые (перестраховочные) организации</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=61">АО "СК "Пана Иншуранс"</a></td>
+          <td class="violation  creationdate">08.02.2011</td>
+          <td class="violation ">6</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation "></td>
+          <td class="violation ">75600</td>
+          <td class="violation ">
+            
+            административное правонарушение выразилось в несвоевременном осуществлении страховых выплат. 
+            </td>
+          <td class="violation ">
+            08.02.2011 
+          </td>
+          <td class="violation ">ст. 174 ч.2</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13679</td>
+          <td class="violation ">Страховые (перестраховочные) организации</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=61">АО "СК "Пана Иншуранс"</a></td>
+          <td class="violation  creationdate">08.02.2011</td>
+          <td class="violation ">7</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation "></td>
+          <td class="violation ">75600</td>
+          <td class="violation ">
+            
+            административное правонарушение выразилось в несвоевременном осуществлении страховых выплат. 
+            </td>
+          <td class="violation ">
+            08.02.2011 
+          </td>
+          <td class="violation ">ст.174 ч.2</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13680</td>
+          <td class="violation ">Страховые (перестраховочные) организации</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=61">АО "СК "Пана Иншуранс"</a></td>
+          <td class="violation  creationdate">08.02.2011</td>
+          <td class="violation ">3</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation "></td>
+          <td class="violation ">228000</td>
+          <td class="violation ">
+            
+            административное правонарушение выразилось в ведении бухгалтерского учета с нарушением установленных стандартов и методов бухгалтерского учета
+            </td>
+          <td class="violation ">
+            08.02.2011 
+          </td>
+          <td class="violation ">ч.10 ст. 173</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13681</td>
+          <td class="violation ">Страховые (перестраховочные) организации</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=61">АО "СК "Пана Иншуранс"</a></td>
+          <td class="violation  creationdate">08.02.2011</td>
+          <td class="violation ">4</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation "></td>
+          <td class="violation ">75600</td>
+          <td class="violation ">
+            
+             административное правонарушение выразилось в составлении главным бухгалтером компании отчетности приведшей к искажению содержащихся в ней показателей либо сведений о соблюдении пруденциальных нормативов и иных обязательных к соблюдению норм и лимитов.
+            </td>
+          <td class="violation ">
+            08.02.2011 
+          </td>
+          <td class="violation ">ч. 11 ст. 173</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13682</td>
+          <td class="violation ">Страховые (перестраховочные) организации</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=61">АО "СК "Пана Иншуранс"</a></td>
+          <td class="violation  creationdate">08.02.2011</td>
+          <td class="violation ">8</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation "></td>
+          <td class="violation ">75600</td>
+          <td class="violation ">
+            
+            административное правонарушение выразилось в представлении страховой организацией в Агентство недостоверной информации 
+            </td>
+          <td class="violation ">
+            08.02.2011 
+          </td>
+          <td class="violation ">ч.1 ст.173</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13683</td>
+          <td class="violation ">Страховые (перестраховочные) организации</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=64">АО "СК "ТрансОйл"</a></td>
+          <td class="violation  creationdate">08.02.2011</td>
+          <td class="violation ">10</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation "></td>
+          <td class="violation ">525642</td>
+          <td class="violation ">
+            
+            административное правонарушение выразилось в осуществлении сделок и операций в нарушение законодательства РК о страховании и страховой деятельности. 
+            </td>
+          <td class="violation ">
+            08.02.2011 
+          </td>
+          <td class="violation ">ч. 4 ст. 173</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13684</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=30">АО "Эксимбанк Казахстан"</a></td>
+          <td class="violation  creationdate">08.02.2011</td>
+          <td class="violation ">13</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">151200</td>
+          <td class="violation ">
+            
+            административное правонарушение выразилось в предоставлении уполномоченному органу информации не содержащей сведений предоставление которых требуется в соответствии с банковским законодательством РК.
+            </td>
+          <td class="violation ">
+            08.02.2011 
+          </td>
+          <td class="violation ">ст. 168-2 ч. 1</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13685</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=27">АО "БТА Банк"</a></td>
+          <td class="violation  creationdate">08.02.2011</td>
+          <td class="violation ">08-01-06/536/2456</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предупреждение</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            В соответствии со статьей 46 Закона о банках РК, к банку вынесено письменное предупреждение, во исполнения требования частного определения суда г. Экибастуз от 03.11.2010 г. 
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">не предусмотрен</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13686</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=485">АО "Баута"</a></td>
+          <td class="violation  creationdate">08.02.2011</td>
+          <td class="violation ">10-01-14/789/2451</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письмо-обязательство</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            нарушение требований пункта 4 статьи 67 ЗРК  «Об акционерных обществах» 
+            </td>
+          <td class="violation ">
+            до 28.02.2011 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">исполнено (вх. №7544 от 28.02.11 г.)</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13687</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=331">АО "ORDABASY PST"</a></td>
+          <td class="violation  creationdate">08.02.2011</td>
+          <td class="violation ">10-01-14/759/2409-И</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            нарушение требований пункта 5 статьи 54 ЗРК  «Об акционерных обществах», пункта 2 статьи 9 ЗРК "О рынке ценных бумаг"
+            </td>
+          <td class="violation ">
+            до 25.04.2011 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13688</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=534">АО "ЕвроЦентрАстана"</a></td>
+          <td class="violation  creationdate">08.02.2011</td>
+          <td class="violation ">10-01-14/760/2411-И</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            нарушение требований пункта 5 статьи 54 ЗРК  «Об акционерных обществах», пункта 2 статьи 9 и пункта 4 статьи 9 ЗРК "О рынке ценных бумаг"
+            </td>
+          <td class="violation ">
+            до 25.04.2011 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13689</td>
+          <td class="violation ">Брокеры-дилеры</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=1156">АО «Halyk Global Markets» (ДО АО «Народный Банк Казахстана»)</a></td>
+          <td class="violation  creationdate">08.02.2011</td>
+          <td class="violation ">12</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">151 200 тг.</td>
+          <td class="violation ">
+            
+            административное правонарушение выразилось в неоднократном (два и более раза в течение двенадцати последовательных календарных месяцев) нарушении профессиональным участником рынка ценных бумаг требований, установленных законодательством к его деятельности. 
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation ">ст. 197-1</td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13690</td>
+          <td class="violation ">Организации, осуществляющие инвестиционное управление пенсионными активами</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=171">АО "Организация, осуществляющая инвестиционное управление пенсионными активами "Нур-Траст" , дочерняя организация АО  "Нурбанк"</a></td>
+          <td class="violation  creationdate">07.02.2011</td>
+          <td class="violation ">02-04-34/210/2303-И</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письмо-обязательство</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            О необходимости в срок до 15 февраля 2011 года представить письмо обязательство содержащее гарантию руководства о недопущению впредь подобных нарушении            
+            </td>
+          <td class="violation ">
+            15.02.2011 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">исполнено письмом от 09.02.11г. № 31</td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13691</td>
+          <td class="violation ">Страховые (перестраховочные) организации</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=70">АО "Компания по страхованию жизни "Казкоммерц-Life" (ДО АО "Казкоммерцбанк")</a></td>
+          <td class="violation  creationdate">07.02.2011</td>
+          <td class="violation ">02-04-33/207</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письмо-обязательство</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            несвоевременное представление расчета пруденциальных нормативов по состоянию на 01.01.11г. 
+            </td>
+          <td class="violation ">
+            14.02.2011 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Представлено</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13692</td>
+          <td class="violation ">Страховые (перестраховочные) организации</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=69">АО "Дочерняя компания Народного Банка Казахстана по страхованию жизни "Халык-Life"</a></td>
+          <td class="violation  creationdate">07.02.2011</td>
+          <td class="violation ">02-04-33/205</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письмо-обязательство</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            несвоевременное представление расчета пруденциальных нормативов по состоянию на 01.01.11г. 
+            </td>
+          <td class="violation ">
+            14.02.2011 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Представлено</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13693</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=250">АО «Теміржолсу»</a></td>
+          <td class="violation  creationdate">07.02.2011</td>
+          <td class="violation ">10-01-14/731/2323-И</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            нарушение требований пункта 4 статьи 67 ЗРК  «Об акционерных обществах» 
+            </td>
+          <td class="violation ">
+            до 28.02.2011 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">исполнено (вх. №6868 от 21.02.11 г.)</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13694</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=211">АО "Локомотив"</a></td>
+          <td class="violation  creationdate">07.02.2011</td>
+          <td class="violation ">10-01-14/732/2324-И</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            нарушение требований пункта 4 статьи 67 ЗРК  «Об акционерных обществах» 
+            </td>
+          <td class="violation ">
+            до 28.02.2011 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">исполнено (вх. №6797 от 21.02.11 г., №7505 от 28.02.11 г.)</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13695</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=732">АО "Локомотивный сервисный центр"</a></td>
+          <td class="violation  creationdate">07.02.2011</td>
+          <td class="violation ">10-01-14/733/2325-И</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            нарушение требований пункта 2 статьи 24 и пункта 4 статьи 67 ЗРК "О рынке ценных бумаг"
+            </td>
+          <td class="violation ">
+            до 28.02.2011 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">исполнено (вх. №7502 от 28.02.11 г.)</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13696</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=842">АО "Пассажирские перевозки"</a></td>
+          <td class="violation  creationdate">07.02.2011</td>
+          <td class="violation ">10-01-14/734/2327-И</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            нарушение требований пункта 4 статьи 9 ЗРК "О рынке ценных бумаг" 
+            </td>
+          <td class="violation ">
+            до 07.03.2011 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">исполнено (25.02.11 г.)</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13697</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=918">АО "Совместное турецко-казахстанское предприятие "Тонус"</a></td>
+          <td class="violation  creationdate">07.02.2011</td>
+          <td class="violation ">10-01-11/742/2344-И</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            нарушение требований пункта 4 статьи 67 ЗРК  «Об акционерных обществах» 
+            </td>
+          <td class="violation ">
+            до 10.03.2011 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13698</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=4">АО ДБ "Альфа-Банк"</a></td>
+          <td class="violation  creationdate">07.02.2011</td>
+          <td class="violation ">04-01-08/161/2229-И</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предупреждение</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            В соответствии со статьей 46 Закона о банках РК за нарушение норм Инструкции о требованиях к наличию систем управления рисками и внутреннего контроля в банках второго уровня, утвержденной постановлением Правления Агентства от 30 сентября 2005 года №359, к банку вынесено письменное предупреждение. 
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">не предусмотрен</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13699</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=24">АО «Темiрбанк»</a></td>
+          <td class="violation  creationdate">07.02.2011</td>
+          <td class="violation ">04-01-08/177/2317</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            В соответствии со статьей 46 Закона о банках РК за нарушение норм Инструкции о требованиях к наличию систем управления рисками и внутреннего контроля в банках второго уровня, утвержденной постановлением Правления Агентства от 30 сентября 2005 года №359, к банку вынесено письменное предписание. 
+            </td>
+          <td class="violation ">
+            01.03.2011 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Исполнено письмом от 28.02.11 № 9-3/680</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13700</td>
+          <td class="violation ">Страховые (перестраховочные) организации</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=45">АО "СК "Салем" (прежнее наименование АО "СК "Алатау") </a></td>
+          <td class="violation  creationdate">07.02.2011</td>
+          <td class="violation ">02-04-33/204</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письмо-обязательство</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            пруденциальных нормативов по состоянию на 01.01.11г. 
+            </td>
+          <td class="violation ">
+            14.02.2011 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Представлено</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">13701</td>
+          <td class="violation ">Страховые (перестраховочные) организации</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=46">АО "Дочерняя компания БТА Банка  "БТА Страхование"</a></td>
+          <td class="violation  creationdate">07.02.2011</td>
+          <td class="violation ">02-04-33/206</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письмо-обязательство</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            несвоевременное представление расчета пруденциальных нормативов по состоянию на 01.01.11г. 
+            </td>
+          <td class="violation ">
+            14.02.2011 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Представлено</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+    </tbody>
+  </table>
+  

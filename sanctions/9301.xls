@@ -1,0 +1,2304 @@
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+  <table class="dataTable hover" cellpadding="10px" cellspacing="0px">
+    <thead>
+      <tr>
+        <th>№</th>
+        
+                  <th class="organizationtype sorting">
+              
+              <a href="/index.cfm?docid=3227&switch=russian&organization=&organizationid=&organizationtypeid=&typeid=&kindid=&startdate=&enddate=&npatypeid=&sourceid=&start=9301&view=new&sorting=organizationtype"><b>Тип  организации</b></a>
+                </th>
+              
+                  <th class="organization sorting">
+              
+              <a href="/index.cfm?docid=3227&switch=russian&organization=&organizationid=&organizationtypeid=&typeid=&kindid=&startdate=&enddate=&npatypeid=&sourceid=&start=9301&view=new&sorting=organization"><b>Наименование организации/ФИО</b></a>
+                </th>
+              
+                  <th class="creationdate sorting">
+              
+              <a href="/index.cfm?docid=3227&switch=russian&organization=&organizationid=&organizationtypeid=&typeid=&kindid=&startdate=&enddate=&npatypeid=&sourceid=&start=9301&view=new&sorting=creationdate"><b>Дата принятия решения/дела</b></a>
+                </th>
+              
+                  <th class="number sorting">
+              
+              <a href="/index.cfm?docid=3227&switch=russian&organization=&organizationid=&organizationtypeid=&typeid=&kindid=&startdate=&enddate=&npatypeid=&sourceid=&start=9301&view=new&sorting=number"><b>Номер принятия решения/дела</b></a>
+                </th>
+              
+                  <th class="kind sorting">
+              
+              <a href="/index.cfm?docid=3227&switch=russian&organization=&organizationid=&organizationtypeid=&typeid=&kindid=&startdate=&enddate=&npatypeid=&sourceid=&start=9301&view=new&sorting=kind"><b>Вид взыскания</b></a>
+                </th>
+              
+                  <th class="type sorting">
+              
+              <a href="/index.cfm?docid=3227&switch=russian&organization=&organizationid=&organizationtypeid=&typeid=&kindid=&startdate=&enddate=&npatypeid=&sourceid=&start=9301&view=new&sorting=type"><b>Тип взыскания</b></a>
+                </th>
+              
+                  <th class="totalsum sorting">
+              
+              <a href="/index.cfm?docid=3227&switch=russian&organization=&organizationid=&organizationtypeid=&typeid=&kindid=&startdate=&enddate=&npatypeid=&sourceid=&start=9301&view=new&sorting=totalsum"><b>Наложенное взыскание</b></a>
+                </th>
+              
+              <th class="content">Существо нарушения</th>
+            
+              <th class="deadline">Срок исполнения</th>
+            
+              <th class="article">Статья/пункты НПА, Статья КоАП</th>
+            
+              <th class="comment">Примечание</th>
+            
+                  <th class="npatype sorting">
+              
+              <a href="/index.cfm?docid=3227&switch=russian&organization=&organizationid=&organizationtypeid=&typeid=&kindid=&startdate=&enddate=&npatypeid=&sourceid=&start=9301&view=new&sorting=npatype"><b>Тип НПА</b></a>
+                </th>
+              
+                  <th class="source sorting">
+              
+              <a href="/index.cfm?docid=3227&switch=russian&organization=&organizationid=&organizationtypeid=&typeid=&kindid=&startdate=&enddate=&npatypeid=&sourceid=&start=9301&view=new&sorting=source"><b>Наименование ТФ НБ РК/департамента ЦФ</b></a>
+                </th>
+              
+        
+      </tr>
+    </thead>
+    <tbody>
+      
+        <tr>
+          <td class="">9301</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=28">АО "Банк ЦентрКредит"</a></td>
+          <td class="violation  creationdate">13.08.2014</td>
+          <td class="violation ">13-4-06/1817</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            В соответствии со статьей 46 Закона о банках к банку вынесено письменное предписание за предоставление в Национальный Банк недостоверных данных
+            </td>
+          <td class="violation ">
+            15.08.2014 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Исполнено письмом от 15.08.2014г. №21-3-1/7796</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9302</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=825">АО "Нурсат"</a></td>
+          <td class="violation  creationdate">13.08.2014</td>
+          <td class="violation ">33-3-20/1746 от 13.08.2014 г.</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            нарушение требований статьи 67  ЗРК "Об акционерных обществах"  
+            </td>
+          <td class="violation ">
+            22.09.2014 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Исполнено № 62932 от 22.09.2014 г.</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9303</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=665">АО "Казына Капитал Менеджмент"</a></td>
+          <td class="violation  creationdate">13.08.2014</td>
+          <td class="violation ">33-3-20/1743 от 13.08.2014 г.</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            нарушение требований статьи 67  ЗРК "Об акционерных обществах"  
+            </td>
+          <td class="violation ">
+            22.09.2014 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Исполнено № 55140 14.09.2014 г.</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9304</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=990">АО "Фармация"</a></td>
+          <td class="violation  creationdate">13.08.2014</td>
+          <td class="violation ">33-3-20/1721 от 13.08.2014 г.</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            нарушение требований статьи 67  ЗРК "Об акционерных обществах"  
+            </td>
+          <td class="violation ">
+            23.09.2014 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Исполнено № 62955 от 22.09.2014 г.</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9305</td>
+          <td class="violation ">Страховые (перестраховочные) организации</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=44">АО "Страховая компания "АСКО"</a></td>
+          <td class="violation  creationdate">13.08.2014</td>
+          <td class="violation ">140000803000558-140000803000562</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">926 000 тг.</td>
+          <td class="violation ">
+            
+            должностным лицом (Юркина Н.А.) совершено административное правонарушение, выразившееся в нарушении требований законодательства при заключении договоров обязательного страхования.
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation ">ч. 4 ст. 175</td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9306</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=12">АО "Kaspi Bank"</a></td>
+          <td class="violation  creationdate">12.08.2014</td>
+          <td class="violation "></td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Предупреждение</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам соблюдения требований валютного законодательства</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">9307</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=28">АО "Банк ЦентрКредит"</a></td>
+          <td class="violation  creationdate">12.08.2014</td>
+          <td class="violation ">143500803/000022</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">Штраф 370 400 тенге (200 МРП)</td>
+          <td class="violation ">
+            
+            Нарушение требований Правил использования платежных документов и осуществления безналичных платежей и переводов денег на территории Республики Казахстан, утвержденных постановлением Правления Национального Банка Республики Казахстан от 25.04.2000  № 179.
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation ">часть 4 статьи 169 КоАП</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам соблюдения законодательства по платежам и переводам денег</td>
+          <td class="violation ">Филиал НБРК</td>
+        </tr>
+      
+        <tr>
+          <td class="">9308</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=798">АО "Национальный центр государственной научно-технической экспертизы"</a></td>
+          <td class="violation  creationdate">12.08.2014</td>
+          <td class="violation ">33-3-20/1704 от 12.08.2014 г.</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            нарушение требований статьи 67  ЗРК "Об акционерных обществах"  
+            </td>
+          <td class="violation ">
+            16.09.2014 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Исполнено № 60897 от 11.09.2014 г.</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9309</td>
+          <td class="violation ">Кастодиан</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=3">АО "АТФБанк"</a></td>
+          <td class="violation  creationdate">11.08.2014</td>
+          <td class="violation ">33-1-06/1675</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письмо-обязательство</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            О необходимости представить письмо-обязательство, содержащее факт признания имеющихся недостатков и гарантию руководства по недопущению впредь предоставления недостоверной информации в рамках кастодиальной деятельности 
+            </td>
+          <td class="violation ">
+            25.08.2014 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">В связи с нарушением срока предоставления письма-обязательства в отношении Организации была применена ограниченная мера воздействия в виде письменного предписания (письмо НБРК от 12.09.2014г. №33-1-06/2331). Исполнено письмом от 23.09.2014 № 63057	</td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9310</td>
+          <td class="violation ">Страховые (перестраховочные) организации</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=40">АО "Страховая компания "Amanat"</a></td>
+          <td class="violation  creationdate">11.08.2014</td>
+          <td class="violation ">140000803000543</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation "></td>
+          <td class="violation ">370400</td>
+          <td class="violation ">
+            
+            27.06.2014	140000803000199	административное взыскание	826 316 тг.	ч.4 ст.175	административное правонарушение выразилось в заключении страховой (перестраховочной) организацией договоров обязательного страхования на условиях, не соответствующих требованиям законодательства Республики Казахстан
+            </td>
+          <td class="violation ">
+            11.08.2014 
+          </td>
+          <td class="violation ">ч.4 ст.175</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9311</td>
+          <td class="violation ">Страховые (перестраховочные) организации</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=40">АО "Страховая компания "Amanat"</a></td>
+          <td class="violation  creationdate">11.08.2014</td>
+          <td class="violation ">140000803000542</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">185 756 тг.</td>
+          <td class="violation ">
+            
+            Осуществлениестраховой (перестраховочной) организацией сделок и операций в нарушение законодательства Республики Казахстан о страховании и страховой деятельности.
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation ">ч.5 ст.173</td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9312</td>
+          <td class="violation ">Страховые брокеры</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=95">ТОО "Страховой брокер "General Broker"</a></td>
+          <td class="violation  creationdate">11.08.2014</td>
+          <td class="violation ">37-2-04/1160</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            За некорректное составление отчетности
+            </td>
+          <td class="violation ">
+            19.08.2014 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9313</td>
+          <td class="violation ">Страховые (перестраховочные) организации</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=51">АО "КК ЗиМС "ИНТЕРТИЧ"</a></td>
+          <td class="violation  creationdate">08.08.2014</td>
+          <td class="violation ">37-2-04/1134</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письмо-обязательство</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            За несвоевременное представление отчетности
+            </td>
+          <td class="violation ">
+            14.08.2014 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Представлено</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9314</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=2">Дочерний Банк Акционерное общество  "Хоум Кредит энд Финанс Банк"</a></td>
+          <td class="violation  creationdate">08.08.2014</td>
+          <td class="violation ">13-3-01/1724</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предупреждение</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            В соответствии с пунктом 2 статьи 13 Закона РК «О противодействии легализации (отмыванию) доходов, полученных незаконным путем, и финансированию терроризма».
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">не предусмотрено|</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9315</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=16">АО "AsiaCredit Bank (Азия Кредит Банк)"(прежнее наименование АО "СБ "ЛАРИБА-БАНК")</a></td>
+          <td class="violation  creationdate">08.08.2014</td>
+          <td class="violation ">13-3-01/1731</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предупреждение</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            В соответствии со статьей 46 Закона о банках РК, к банку вынесено письменное предупреждение за нарушение нормативных правовых актов 	
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Не предусмотрено|</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9316</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=23">АО «Capital Bank Kazakhstan»</a></td>
+          <td class="violation  creationdate">08.08.2014</td>
+          <td class="violation ">13-3-05/1735</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предупреждение</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            В соответствии со статьей 46 Закона о банках РК, к банку вынесено письменное предупреждение за нарушение нормативных правовых актов
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Не предусмотрено|</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9317</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=30">АО "Эксимбанк Казахстан"</a></td>
+          <td class="violation  creationdate">08.08.2014</td>
+          <td class="violation ">140000803000471</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">185200</td>
+          <td class="violation ">
+            
+            должностным лицом (Прихожан Д.А.) совершено административное правонарушение, выразившееся в составлении отчетности, приведшей к искажению сведений о выполнении пруденциальных нормативов
+
+            </td>
+          <td class="violation ">
+            08.08.2014 
+          </td>
+          <td class="violation ">ч. 7 ст. 168-2
+</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9318</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=30">АО "Эксимбанк Казахстан"</a></td>
+          <td class="violation  creationdate">08.08.2014</td>
+          <td class="violation ">140000803000465</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">555600</td>
+          <td class="violation ">
+            
+            административное правонарушение выразилось в неоднократном (два и более раза в течение двенадцати последовательных календарных месяцев) нарушении установленных Национальным Банком пруденциальных нормативов
+
+            </td>
+          <td class="violation ">
+            08.08.2014 
+          </td>
+          <td class="violation ">ч. 3 ст. 168-2</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9319</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=30">АО "Эксимбанк Казахстан"</a></td>
+          <td class="violation  creationdate">08.08.2014</td>
+          <td class="violation ">140000803000466</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">370400</td>
+          <td class="violation ">
+            
+            административное правонарушение выразилось в предоставлении отчетности, не содержащей сведений, предоставление которых требуется в соответствии с банковским законодательством Республики Казахстан
+
+            </td>
+          <td class="violation ">
+            08.08.2014 
+          </td>
+          <td class="violation ">ч. 1 ст. 168-2
+</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9320</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=30">АО "Эксимбанк Казахстан"</a></td>
+          <td class="violation  creationdate">08.08.2014</td>
+          <td class="violation ">140000803000468</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">370400</td>
+          <td class="violation ">
+            
+            административное правонарушение выразилось в предоставлении в Национальный Банк Республики Казахстан недостоверной отчетности
+
+            </td>
+          <td class="violation ">
+            08.08.2014 
+          </td>
+          <td class="violation ">ч. 1 ст. 168-2
+</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9321</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=30">АО "Эксимбанк Казахстан"</a></td>
+          <td class="violation  creationdate">08.08.2014</td>
+          <td class="violation ">140000803000470</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">370400</td>
+          <td class="violation ">
+            
+            административное правонарушение выразилось в составлении отчетности, приведшее к искажению сведений о выполнении пруденциальных нормативов
+
+            </td>
+          <td class="violation ">
+            08.08.2014 
+          </td>
+          <td class="violation ">ч. 7 ст. 168-2
+</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9322</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=30">АО "Эксимбанк Казахстан"</a></td>
+          <td class="violation  creationdate">08.08.2014</td>
+          <td class="violation ">140000803000467</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">185200</td>
+          <td class="violation ">
+            
+            должностным лицом (Кривцова Т.Л.) совершено административное правонарушение, выразившееся в    предоставлении отчетности, не содержащей сведений, предоставление которых требуется в соответствии с банковским законодательством Республики Казахстан
+
+            </td>
+          <td class="violation ">
+            08.08.2014 
+          </td>
+          <td class="violation ">ч. 1 ст. 168-2
+</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9323</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=30">АО "Эксимбанк Казахстан"</a></td>
+          <td class="violation  creationdate">08.08.2014</td>
+          <td class="violation ">140000803000469</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">185200</td>
+          <td class="violation ">
+            
+            должностным лицом (Риммер Н.Г.) совершено административное правонарушение, выразившееся в  предоставлении в Национальный Банк Республики Казахстан недостоверной отчетности
+
+            </td>
+          <td class="violation ">
+            08.08.2014 
+          </td>
+          <td class="violation ">ч.1 ст. 168-2 </td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9324</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=16">АО "AsiaCredit Bank (Азия Кредит Банк)"(прежнее наименование АО "СБ "ЛАРИБА-БАНК")</a></td>
+          <td class="violation  creationdate">08.08.2014</td>
+          <td class="violation ">140000803000471</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">185 200 тенге
+</td>
+          <td class="violation ">
+            
+            
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9325</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=950">АО "ТНК "Казхром"</a></td>
+          <td class="violation  creationdate">08.08.2014</td>
+          <td class="violation ">33-3-20/1636 от 08.08.2014 г.</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письмо-обязательство</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 4 статьи 9 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            27.08.2014 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Исполнено №57447 от 28.08.2014</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9326</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=845">АО "ПетроКазахстан Кумколь Ресорсиз"</a></td>
+          <td class="violation  creationdate">08.08.2014</td>
+          <td class="violation ">33-3-20/1640 от 08.08.2014 г.</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письмо-обязательство</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 4 статьи 9 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            22.09.2014 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Исполнено №57455 от 27.08.2014</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9327</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=23">АО «Capital Bank Kazakhstan»</a></td>
+          <td class="violation  creationdate">07.08.2014</td>
+          <td class="violation ">140000803000364</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">185 200,00</td>
+          <td class="violation ">
+            
+            ч.4 ст.179 административное правонарушение выразилось в ведении бухгалтерского учета в нарушение требований, установленных законодательством Республики Казахстан о бухгалтерском учете и финансовой отчетности, и методов (принципов) бухгалтерского учета, приведшее к искажению финансовой отчетности
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам соблюдения требований в области бухгалтерского учета и финансовой отчетности</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">9328</td>
+          <td class="violation ">Страховые (перестраховочные) организации</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=50">АО "Зерновая страховая компания"</a></td>
+          <td class="violation  creationdate">07.08.2014</td>
+          <td class="violation ">25-5-05/137</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письмо-обязательство</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            За несвоевременное представление отчетности по состоянию на 01.07.14г. и 10.07.2014г.
+            </td>
+          <td class="violation ">
+            18.08.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">исполнено</td>
+          <td class="violation ">по вопросам предоставления финансовой и иной отчетности</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">9329</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=28">АО "Банк ЦентрКредит"</a></td>
+          <td class="violation  creationdate">06.08.2014</td>
+          <td class="violation "></td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Предупреждение</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам соблюдения требований валютного законодательства</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">9330</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=31">АО "Altyn Bank" (ДБ China Citic Bank Corporation Limited) (прежнее название АО "Altyn Bank" (ДБ АО "Народный Банк Казахстана"))</a></td>
+          <td class="violation  creationdate">06.08.2014</td>
+          <td class="violation "></td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Предупреждение</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам соблюдения требований валютного законодательства</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">9331</td>
+          <td class="violation ">Страховые (перестраховочные) организации</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=45">АО "СК "Салем" (прежнее наименование АО "СК "Алатау") </a></td>
+          <td class="violation  creationdate">06.08.2014</td>
+          <td class="violation ">37-2-04/1106</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письмо-обязательство</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            За выявленные нарушения в расчетах страхового резерва
+            </td>
+          <td class="violation ">
+            15.08.2014 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Представлено</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9332</td>
+          <td class="violation ">Страховые (перестраховочные) организации</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=57">АО  Страховая компания "Лондон-Алматы"</a></td>
+          <td class="violation  creationdate">05.08.2014</td>
+          <td class="violation ">37-1-05/1089</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письмо-обязательство</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            За недостоверное отражение данных в отчетности
+            </td>
+          <td class="violation ">
+            11.08.2014 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Представлено</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9333</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=351">АО «First Heartland Securities»</a></td>
+          <td class="violation  creationdate">05.08.2014</td>
+          <td class="violation ">33-3-20/1557 от 05.08.2014 г.</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письмо-обязательство</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 4 статьи 9 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            26.08.2014 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Исполнено №54315 от 12.08.2014</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9334</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=732">АО "Локомотивный сервисный центр"</a></td>
+          <td class="violation  creationdate">05.08.2014</td>
+          <td class="violation ">33-3-20/1559 от 05.08.2014 г.</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письмо-обязательство</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 4 статьи 9 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            10.09.2014 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Исполнено №57690 от 28.08.2014</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9335</td>
+          <td class="violation ">Ипотечные организации</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=1384">АО "Ипотечная Организация "Казахстанская Ипотечная Компания"</a></td>
+          <td class="violation  creationdate">05.08.2014</td>
+          <td class="violation ">25-5-05/125</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            За  нарушение требования Правил, утвержденных постановлением Правления НБРК №174 от 28.04.12г.
+            </td>
+          <td class="violation ">
+            15.11.2014 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">исполнено</td>
+          <td class="violation ">по вопросам предоставления финансовой и иной отчетности</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">9336</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=24">АО «Темiрбанк»</a></td>
+          <td class="violation  creationdate">05.08.2014</td>
+          <td class="violation ">25-5-05/131</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письмо-обязательство</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            За нарушение срока представления отчетности, установленной ПП НБРК от 23.09.2013 г. № 249 
+            </td>
+          <td class="violation ">
+            15.08.2014 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">исполнено</td>
+          <td class="violation ">по вопросам предоставления финансовой и иной отчетности</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">9337</td>
+          <td class="violation ">Управляющие инвестиционным портфелем</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=1386">АО «Lancaster Invest»</a></td>
+          <td class="violation  creationdate">04.08.2014</td>
+          <td class="violation ">140000803000476</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">185 200,00</td>
+          <td class="violation ">
+            
+            ч.4 ст.179 административное правонарушение выразилось в ведении бухгалтерского учета в нарушение требований, установленных законодательством Республики Казахстан о бухгалтерском учете и финансовой отчетности, и методов (принципов) бухгалтерского учета, приведшее к искажению финансовой отчетности
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам соблюдения требований в области бухгалтерского учета и финансовой отчетности</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">9338</td>
+          <td class="violation ">Страховые (перестраховочные) организации</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=51">АО "КК ЗиМС "ИНТЕРТИЧ"</a></td>
+          <td class="violation  creationdate">04.08.2014</td>
+          <td class="violation ">140000803000252</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">185 200,00</td>
+          <td class="violation ">
+            
+            ч.4 ст.179 административное правонарушение выразилось в ведении бухгалтерского учета в нарушение требований, установленных законодательством Республики Казахстан о бухгалтерском учете и финансовой отчетности, и методов (принципов) бухгалтерского учета, приведшее к искажению финансовой отчетности
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам соблюдения требований в области бухгалтерского учета и финансовой отчетности</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">9339</td>
+          <td class="violation ">Страховые (перестраховочные) организации</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=45">АО "СК "Салем" (прежнее наименование АО "СК "Алатау") </a></td>
+          <td class="violation  creationdate">04.08.2014</td>
+          <td class="violation ">140000803000253</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">185 200,00</td>
+          <td class="violation ">
+            
+            ч.4 ст.179 административное правонарушение выразилось в ведении бухгалтерского учета в нарушение требований, установленных законодательством Республики Казахстан о бухгалтерском учете и финансовой отчетности, и методов (принципов) бухгалтерского учета, приведшее к искажению финансовой отчетности
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам соблюдения требований в области бухгалтерского учета и финансовой отчетности</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">9340</td>
+          <td class="violation ">Страховые (перестраховочные) организации</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=45">АО "СК "Салем" (прежнее наименование АО "СК "Алатау") </a></td>
+          <td class="violation  creationdate">04.08.2014</td>
+          <td class="violation ">140000803000254</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">185 200,00</td>
+          <td class="violation ">
+            
+            ч.4 ст.179 административное правонарушение выразилось в ведении бухгалтерского учета в нарушение требований, установленных законодательством Республики Казахстан о бухгалтерском учете и финансовой отчетности, и методов (принципов) бухгалтерского учета, приведшее к искажению финансовой отчетности
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам соблюдения требований в области бухгалтерского учета и финансовой отчетности</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">9341</td>
+          <td class="violation ">Страховые (перестраховочные) организации</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=45">АО "СК "Салем" (прежнее наименование АО "СК "Алатау") </a></td>
+          <td class="violation  creationdate">04.08.2014</td>
+          <td class="violation ">140000803000255</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">185 200,00</td>
+          <td class="violation ">
+            
+            ч.4 ст.179 административное правонарушение выразилось в ведении бухгалтерского учета в нарушение требований, установленных законодательством Республики Казахстан о бухгалтерском учете и финансовой отчетности, и методов (принципов) бухгалтерского учета, приведшее к искажению финансовой отчетности
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам соблюдения требований в области бухгалтерского учета и финансовой отчетности</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">9342</td>
+          <td class="violation ">Страховые (перестраховочные) организации</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=45">АО "СК "Салем" (прежнее наименование АО "СК "Алатау") </a></td>
+          <td class="violation  creationdate">04.08.2014</td>
+          <td class="violation ">140000803000256</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">185 200,00</td>
+          <td class="violation ">
+            
+            ч.4 ст.179 административное правонарушение выразилось в ведении бухгалтерского учета в нарушение требований, установленных законодательством Республики Казахстан о бухгалтерском учете и финансовой отчетности, и методов (принципов) бухгалтерского учета, приведшее к искажению финансовой отчетности
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам соблюдения требований в области бухгалтерского учета и финансовой отчетности</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">9343</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=37">ДО АО Банк ВТБ (Казахстан)</a></td>
+          <td class="violation  creationdate">04.08.2014</td>
+          <td class="violation "></td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Предупреждение</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам соблюдения требований валютного законодательства</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">9344</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=300">АО "Gold Investment Group" </a></td>
+          <td class="violation  creationdate">04.08.2014</td>
+          <td class="violation ">140000803000277</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">92600</td>
+          <td class="violation ">
+            
+            Административное правонарушение выразилось в неоднократном (два и более раза в течение двенадцати последовательных календарных месяцев) нарушении эмитентом установленного законодательством Республики Казахстан срока представления документов для регистрации изменений и дополнений в проспект выпуска эмиссионных ценных бумаг законодательством Республики Казахстан
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation ">ст. 191</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">9345</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=46">АО "Дочерняя компания БТА Банка  "БТА Страхование"</a></td>
+          <td class="violation  creationdate">04.08.2014</td>
+          <td class="violation ">140000803000283</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">92600</td>
+          <td class="violation ">
+            
+            Административное правонарушение выразилось в неоднократном (два и более раза в течение двенадцати последовательных календарных месяцев) нарушении эмитентом установленного законодательством Республики Казахстан срока представления документов для регистрации изменений и дополнений в проспект выпуска эмиссионных ценных бумаг законодательством Республики Казахстан
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation ">ст. 191</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">9346</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=1728">АО «Республиканская телерадиокорпорация «Казахстан»</a></td>
+          <td class="violation  creationdate">04.08.2014</td>
+          <td class="violation ">140000803000464</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">92600</td>
+          <td class="violation ">
+            
+            Административное правонарушение выразилось в неоднократном (два и более раза в течение двенадцати последовательных календарных месяцев) нарушении эмитентом установленного законодательством Республики Казахстан срока представления документов для регистрации изменений и дополнений в проспект выпуска эмиссионных ценных бумаг законодательством Республики Казахстан
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation ">ст. 191</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">9347</td>
+          <td class="violation ">Страховые (перестраховочные) организации</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=40">АО "Страховая компания "Amanat"</a></td>
+          <td class="violation  creationdate">04.08.2014</td>
+          <td class="violation ">140000803000416-140000803000478</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">185 200 тг.</td>
+          <td class="violation ">
+            
+            должностным лицом (Сеитовой З.Б.) совершено административное правонарушение выразившееся в заключении страховой (перестраховочной) организацией договоров обязательного страхования на условиях, не соответствующих требованиям законодательства Республики Казахстан, выразившееся в страховании объектов по обязательным видам страхования не подлежащих страхованию. (50 протоколов)
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation ">ч.4 ст.175</td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9348</td>
+          <td class="violation ">Брокеры-дилеры</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=1164">АО «Инвестиционный Финансовый Дом «RESMI»</a></td>
+          <td class="violation  creationdate">04.08.2014</td>
+          <td class="violation ">140000803000286</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">166 680тг.</td>
+          <td class="violation ">
+            
+            административное правонарушение выразилось в нарушении финансовой организацией срока согласования руководящего работника
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation ">ч.1 ст.175-1</td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9349</td>
+          <td class="violation ">Регистратор</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=1389">АО «Единый регистратор ценных бумаг» (реорганизован с 01 января путем присоединения к АО "Центральный депозитарий ценных бумаг")</a></td>
+          <td class="violation  creationdate">04.08.2014</td>
+          <td class="violation ">140000803000361</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">370 400 тенге </td>
+          <td class="violation ">
+            
+            нарушение порядка ведения системы реестров держателей ценных бумаг и подтверждения прав по ним (Муканов А.Б.)
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation ">ч.1 ст.196 </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9350</td>
+          <td class="violation ">Регистратор</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=1389">АО «Единый регистратор ценных бумаг» (реорганизован с 01 января путем присоединения к АО "Центральный депозитарий ценных бумаг")</a></td>
+          <td class="violation  creationdate">04.08.2014</td>
+          <td class="violation ">140000803000362</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">555 600 тенге</td>
+          <td class="violation ">
+            
+            нарушение порядка ведения системы реестров держателей ценных бумаг и подтверждения прав по ним
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation ">ч.1 ст.196 </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9351</td>
+          <td class="violation ">Управляющие инвестиционным портфелем</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=168">АО "Организация, осуществляющая инвестиционное управление пенсионными активами "Жетысу"</a></td>
+          <td class="violation  creationdate">01.08.2014</td>
+          <td class="violation ">33-2-06/1443</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Касательно приведения в соответствие требованиям законодательства Республики Казахстан состава Правления
+            </td>
+          <td class="violation ">
+            28.08.2014 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Исполнено письмом №ЖИ-225/1 от 27.08.2014 г</td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9352</td>
+          <td class="violation ">Управляющие инвестиционным портфелем</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=168">АО "Организация, осуществляющая инвестиционное управление пенсионными активами "Жетысу"</a></td>
+          <td class="violation  creationdate">01.08.2014</td>
+          <td class="violation ">33-2-06/1441</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            
+            </td>
+          <td class="violation ">
+            19.08.2014 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9353</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=1131">ТОО "Биоком"</a></td>
+          <td class="violation  creationdate">01.08.2014</td>
+          <td class="violation ">33-3-20/1458 от 01.08.2014 г.</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 2 статьи 24 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.10.2014 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Исполнено № 62098 от 18.09.2014 г.</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9354</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=666">АО "Казэлектромонтаж"</a></td>
+          <td class="violation  creationdate">01.08.2014</td>
+          <td class="violation ">33-3-20/1462 от 01.08.2014 г.</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 4 статьи 9 ЗРК "О рынке ценных бумаг"       нарушение требований статьи 67  ЗРК "Об акционерных обществах"
+            </td>
+          <td class="violation ">
+            02.09.2014 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Частично исполнено № 58876 от 03.09.2014,</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9355</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=227">АО "Тема Ко."</a></td>
+          <td class="violation  creationdate">01.08.2014</td>
+          <td class="violation ">33-3-20/1465 от 01.08.2014 г.</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 2 статьи 24 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            27.08.2014 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Исполнено № 56040 от 20.08.2014 г.</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9356</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=1137">ТОО "МК-Ломбард"</a></td>
+          <td class="violation  creationdate">01.08.2014</td>
+          <td class="violation ">33-3-20/1457 от 01.08.2014 г.</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 2 статьи 24 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            22.09.2014 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Исполнено № 58360 от 02.09.2014 г .</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9357</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=36">АО "Шинхан Банк Казахстан"</a></td>
+          <td class="violation  creationdate">01.08.2014</td>
+          <td class="violation ">25-5-12/116</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письмо-обязательство</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            За нарушение срока представления отчетности, установленной ПП НБРК от 23.09.2013 г. № 249 
+            </td>
+          <td class="violation ">
+            13.08.2014 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">исполнено</td>
+          <td class="violation ">по вопросам предоставления финансовой и иной отчетности</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">9358</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=13">АО "ДОЧЕРНИЙ БАНК «КАЗАХСТАН-ЗИРААТ ИНТЕРНЕШНЛ БАНК"</a></td>
+          <td class="violation  creationdate">31.07.2014</td>
+          <td class="violation ">25-5-12/113</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письмо-обязательство</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            За  нарушение требования Правил, утвержденных постановлением Правления НБРК №136 от 17.06.06 г.
+            </td>
+          <td class="violation ">
+            11.08.2014 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">исполнено</td>
+          <td class="violation ">по вопросам предоставления финансовой и иной отчетности</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">9359</td>
+          <td class="violation ">Страховые брокеры</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=1394">ТОО «Страховой брокер «Верный» (прежнее название - ТОО «Страховой брокер «RMCG»)</a></td>
+          <td class="violation  creationdate">31.07.2014</td>
+          <td class="violation ">37-2-04/1001</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письмо-обязательство</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            За некорректное заключение договора страхования 
+            </td>
+          <td class="violation ">
+            08.06.2014 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Представлено</td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9360</td>
+          <td class="violation ">Страховые брокеры</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=85">ТОО "Страховая брокерская компания "UIB Kazakhstan"</a></td>
+          <td class="violation  creationdate">31.07.2014</td>
+          <td class="violation ">37-2-04/1000</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письмо-обязательство</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            За несвоевременное представление внутреннего регламента работы и учетной политики
+            </td>
+          <td class="violation ">
+            08.06.2014 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Представлено</td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9361</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=11">АО "Казкоммерцбанк"</a></td>
+          <td class="violation  creationdate">31.07.2014</td>
+          <td class="violation "></td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">74080</td>
+          <td class="violation ">
+            
+            
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам соблюдения требований валютного законодательства</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">9362</td>
+          <td class="violation ">Брокеры-дилеры</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=1169">АО "First Heartland Jysan Invest" (прежнее наименование - АО "Цесна Капитал")</a></td>
+          <td class="violation  creationdate">31.07.2014</td>
+          <td class="violation ">33-2-06/1398</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            в связи с несоответствием Программно-технического обеспечения требованиям законодательства рынка ценных бумаг      
+            </td>
+          <td class="violation ">
+            15.08.2014 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">исполнено письмом №18/658 от 14.08.2014г. </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9363</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=1122">ТОО "Complete LTD"</a></td>
+          <td class="violation  creationdate">31.07.2014</td>
+          <td class="violation ">33-3-20/1417 от 31.07.2014 г.</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 2 статьи 24 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            30.07.2014 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">31.10.2014 г. письмом № 33-3-20/3381  повторно  вынесено письменное  пердписание</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9364</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=1120">ТОО " ZIG Finance"</a></td>
+          <td class="violation  creationdate">31.07.2014</td>
+          <td class="violation ">33-3-20/1419 от 31.07.2014 г.</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 2 статьи 24 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            30.07.2014 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">31.10.2014 г. письмом № 33-3-20/3383  повторно  вынесено письменное  пердписание</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9365</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=1136">ТОО "Компания Баттал ЛТД"</a></td>
+          <td class="violation  creationdate">31.07.2014</td>
+          <td class="violation ">33-3-20/1418 от 31.07.2014 г.</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 2 статьи 24 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            30.07.2014 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Исполнено № 57928 от 29.08.2014 г.</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9366</td>
+          <td class="violation ">Управляющие инвестиционным портфелем</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=530">АО «Евразийский Капитал»</a></td>
+          <td class="violation  creationdate">31.07.2014</td>
+          <td class="violation ">33-1-06/1425</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письмо-обязательство</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            В связи с несвоевременным предоставлением отчетности 
+            </td>
+          <td class="violation ">
+            20.08.2014 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">исполнено письмом от 19.08.2014г. №388</td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9367</td>
+          <td class="violation ">Управляющие инвестиционным портфелем</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=501">АО «Верный Капитал»</a></td>
+          <td class="violation  creationdate">31.07.2014</td>
+          <td class="violation ">33-1-06/1425</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письмо-обязательство</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            
+            </td>
+          <td class="violation ">
+            20.08.2014 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9368</td>
+          <td class="violation ">Страховые (перестраховочные) организации</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=43">АО "СК "Альянс Полис"</a></td>
+          <td class="violation  creationdate">31.07.2014</td>
+          <td class="violation ">38-4-04/821</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письмо-обязательство</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            По результатам инспекторской проверки
+            </td>
+          <td class="violation ">
+            18.08.2014 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Представлено</td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9369</td>
+          <td class="violation ">Страховые (перестраховочные) организации</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=43">АО "СК "Альянс Полис"</a></td>
+          <td class="violation  creationdate">31.07.2014</td>
+          <td class="violation ">38-4-04/822</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            По результатам инспекторской проверки
+            </td>
+          <td class="violation ">
+            01.10.2014 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Выполнено</td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9370</td>
+          <td class="violation ">Брокеры-дилеры</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=1054">АО «Казпочта»</a></td>
+          <td class="violation  creationdate">31.07.2014</td>
+          <td class="violation ">140000803000248</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">370 400тг.</td>
+          <td class="violation ">
+            
+            административное правонарушение, выразившееся в предоставлении в уполномоченный орган недостоверной  информации
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation ">ч.1 ст.193</td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9371</td>
+          <td class="violation ">Брокеры-дилеры</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=1054">АО «Казпочта»</a></td>
+          <td class="violation  creationdate">31.07.2014</td>
+          <td class="violation ">140000803000249</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">185 200тг.</td>
+          <td class="violation ">
+            
+            должностным лицом (Кунхожаева А.С.) совершено административное правонарушение, выразившееся в предоставлении в уполномоченный орган недостоверной  информации
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation ">ч.1 ст.193</td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9372</td>
+          <td class="violation ">Страховые (перестраховочные) организации</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=40">АО "Страховая компания "Amanat"</a></td>
+          <td class="violation  creationdate">31.07.2014</td>
+          <td class="violation ">37-2-04/1015</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письмо-обязательство</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            За недостоверное отражение данных в отчетности
+            </td>
+          <td class="violation ">
+            08.08.2014 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Представлено</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9373</td>
+          <td class="violation ">Актуарии</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=146">Коптлеуов Мухтар Абаевич</a></td>
+          <td class="violation  creationdate">31.07.2014</td>
+          <td class="violation ">37-4-05/987</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            За нарушение требований законодательства по составлению актуарного заключения 
+            </td>
+          <td class="violation ">
+            08.08.2014 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Выполнено</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9374</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=11">АО "Казкоммерцбанк"</a></td>
+          <td class="violation  creationdate">31.07.2014</td>
+          <td class="violation ">13-1-01/1518</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            В соответствии со статьей 46 Закона о банках к Банку вынесено письменное предписание за невыполнение требований уполномоченного органа.
+            </td>
+          <td class="violation ">
+            11.08.2014 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9375</td>
+          <td class="violation ">Актуарии</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=154">Белименко Сергей Андреевич</a></td>
+          <td class="violation  creationdate">30.07.2014</td>
+          <td class="violation ">37-4-05/985</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            За нарушение требований законодательства по составлению актуарного заключения 
+            </td>
+          <td class="violation ">
+            08.08.2014 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Выполнено</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9376</td>
+          <td class="violation ">Актуарии</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=164">Рыскулов Адильбек Сабырханулы</a></td>
+          <td class="violation  creationdate">30.07.2014</td>
+          <td class="violation ">37-4-05/992</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письмо-обязательство</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            За нарушение требований законодательства по составлению актуарного заключения 
+            </td>
+          <td class="violation ">
+            08.08.2014 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Представлено</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9377</td>
+          <td class="violation ">Актуарии</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=107">Мирзалиев Аскар Есенович</a></td>
+          <td class="violation  creationdate">30.07.2014</td>
+          <td class="violation ">37-4-05/984</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            За нарушение требований законодательства по составлению актуарного заключения 
+            </td>
+          <td class="violation ">
+            08.08.2014 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Выполнено</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9378</td>
+          <td class="violation ">Актуарии</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=114">Абетаева Карлыгаш Ануарбековна</a></td>
+          <td class="violation  creationdate">30.07.2014</td>
+          <td class="violation ">37-4-05/989</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            За нарушение требований законодательства по составлению актуарного заключения 
+            </td>
+          <td class="violation ">
+            08.08.2014 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Выполнено</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9379</td>
+          <td class="violation ">Актуарии</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=119">Елдесбай Алуа Турсынбеккызы</a></td>
+          <td class="violation  creationdate">30.07.2014</td>
+          <td class="violation ">37-4-05/990</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            За нарушение требований законодательства по составлению актуарного заключения 
+            </td>
+          <td class="violation ">
+            08.08.2014 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Выполнено</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9380</td>
+          <td class="violation ">Актуарии</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=126">Сихова Сара Бахытжановна</a></td>
+          <td class="violation  creationdate">30.07.2014</td>
+          <td class="violation ">37-4-05/993</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            За нарушение требований законодательства по составлению актуарного заключения 
+            </td>
+          <td class="violation ">
+            08.08.2014 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Выполнено</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9381</td>
+          <td class="violation ">Актуарии</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=128">Шангиреев Ержан Ибатуллаевич</a></td>
+          <td class="violation  creationdate">30.07.2014</td>
+          <td class="violation ">37-4-05/988</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            За нарушение требований законодательства по составлению актуарного заключения 
+            </td>
+          <td class="violation ">
+            08.08.2014 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Выполнено</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9382</td>
+          <td class="violation ">Актуарии</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=134">Чегебаев Самат Садырбаевич</a></td>
+          <td class="violation  creationdate">30.07.2014</td>
+          <td class="violation ">37-4-05/994</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            За нарушение требований законодательства по составлению актуарного заключения 
+            </td>
+          <td class="violation ">
+            08.08.2014 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Выполнено</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9383</td>
+          <td class="violation ">Актуарии</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=139">Атейбекова Рима Бейсенбековна</a></td>
+          <td class="violation  creationdate">30.07.2014</td>
+          <td class="violation ">37-4-05/983</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            За нарушение требований законодательства по составлению актуарного заключения 
+            </td>
+          <td class="violation ">
+            08.08.2014 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Выполнено</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9384</td>
+          <td class="violation ">Актуарии</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=140">Махмеджанова Роза Набибуллаевна</a></td>
+          <td class="violation  creationdate">30.07.2014</td>
+          <td class="violation ">37-4-05/986</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            За нарушение требований законодательства по составлению актуарного заключения 
+            </td>
+          <td class="violation ">
+            08.08.2014 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Выполнено</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9385</td>
+          <td class="violation ">Страховые (перестраховочные) организации</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=44">АО "Страховая компания "АСКО"</a></td>
+          <td class="violation  creationdate">30.07.2014</td>
+          <td class="violation ">140000803000236</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation "></td>
+          <td class="violation ">92600</td>
+          <td class="violation ">
+            
+            административное правонарушение выразилось в предоставлении недостоверной отчетности в уполномоченный орган
+            </td>
+          <td class="violation ">
+            30.07.2014 
+          </td>
+          <td class="violation ">ч.1 ст.173 </td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9386</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=274">АО "ArcelorMittal Tubular Products Aktau"</a></td>
+          <td class="violation  creationdate">29.07.2014</td>
+          <td class="violation ">33-3-20/1364 от 29.07.2014 г.</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письмо-обязательство</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 4 статьи 9 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            27.08.2014 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Исполнено №56049 от 20.08.2014</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9387</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=4">АО ДБ "Альфа-Банк"</a></td>
+          <td class="violation  creationdate">29.07.2014</td>
+          <td class="violation "></td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Предупреждение</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам соблюдения требований валютного законодательства</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">9388</td>
+          <td class="violation ">Управляющие инвестиционным портфелем</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=1188">АО «SkyBridge Invest»</a></td>
+          <td class="violation  creationdate">29.07.2014</td>
+          <td class="violation "></td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письмо-обязательство</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам соблюдения требований в области бухгалтерского учета и финансовой отчетности</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">9389</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=599">АО "Казахская академия спорта и туризма"</a></td>
+          <td class="violation  creationdate">28.07.2014</td>
+          <td class="violation ">33-3-20/1355 от 28.07.2014 г.</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            нарушение требований статьи 67  ЗРК "Об акционерных обществах"  
+            </td>
+          <td class="violation ">
+            26.08.2014 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Исполнено № 55629 от 18.08.2014</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9390</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=599">АО "Казахская академия спорта и туризма"</a></td>
+          <td class="violation  creationdate">28.07.2014</td>
+          <td class="violation ">33-3-20/1319 от 28.07.2014 г.</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письмо-обязательство</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 4 статьи 9 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            26.08.2014 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Исполнено № 55628 от 18.08.2014</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9391</td>
+          <td class="violation ">Страховые (перестраховочные) организации</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=64">АО "СК "ТрансОйл"</a></td>
+          <td class="violation  creationdate">28.07.2014</td>
+          <td class="violation ">37-2-04/932</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письмо-обязательство</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            За несвоевременное представление информации
+            </td>
+          <td class="violation ">
+            06.08.2014 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Представлено</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9392</td>
+          <td class="violation ">Страховые (перестраховочные) организации</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=40">АО "Страховая компания "Amanat"</a></td>
+          <td class="violation  creationdate">28.07.2014</td>
+          <td class="violation ">140000803000243<br>  140000803000367-140000803000415</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation "></td>
+          <td class="violation ">807017</td>
+          <td class="violation ">
+            
+            административное правонарушение выразилось в заключении страховой (перестраховочной) организацией договоров обязательного страхования на условиях, не соответствующих требованиям законодательства Республики Казахстан, выразившееся в страховании объектов по обязательным видам страхования не подлежащих страхованию. (50 протоколов)
+            </td>
+          <td class="violation ">
+            28.07.2014 
+          </td>
+          <td class="violation ">ч.4 ст.175</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9393</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=557">АО "Западно - Казахстанская распределительная электросетевая компания"</a></td>
+          <td class="violation  creationdate">25.07.2014</td>
+          <td class="violation ">33-3-20/1309 от 25.07.2014 г.</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письмо-обязательство</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 4 статьи 9 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            26.08.2014 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Исполнено № 54657 от 13.08.2014</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9394</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=341">АО "SKY SERVICE"</a></td>
+          <td class="violation  creationdate">25.07.2014</td>
+          <td class="violation ">33-3-20/1300 от 25.07.2014 г.</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            нарушение требований статьи 67  ЗРК "Об акционерных обществах"  
+            </td>
+          <td class="violation ">
+            26.08.2014 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Исполнено № 49482 от 23.07.2014 г.</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9395</td>
+          <td class="violation ">Брокеры-дилеры</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=1169">АО "First Heartland Jysan Invest" (прежнее наименование - АО "Цесна Капитал")</a></td>
+          <td class="violation  creationdate">25.07.2014</td>
+          <td class="violation ">140000803000284</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">370 400 тг.</td>
+          <td class="violation ">
+            
+            нарушение субъектом рынка ценных бумаг требований по предоставлению отчетности, информации, сведений уполномоченному органу по контролю и надзору финансового рынка и финансовых организаций
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation ">ч.1 ст.193-1</td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9396</td>
+          <td class="violation ">Брокеры-дилеры</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=1169">АО "First Heartland Jysan Invest" (прежнее наименование - АО "Цесна Капитал")</a></td>
+          <td class="violation  creationdate">25.07.2014</td>
+          <td class="violation ">140000803000285</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">185 200 тг.</td>
+          <td class="violation ">
+            
+            нарушение должностным лицом рынка ценных бумаг требований по предоставлению отчетности, информации, сведений уполномоченному органу по контролю и надзору финансового рынка и финансовых организаций (Альмусин Б.Г.)
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation ">ч.1 ст.193-1</td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9397</td>
+          <td class="violation ">Управляющие инвестиционным портфелем</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=1169">АО "First Heartland Jysan Invest" (прежнее наименование - АО "Цесна Капитал")</a></td>
+          <td class="violation  creationdate">25.07.2014</td>
+          <td class="violation ">140000803000285</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">370 400 KZT</td>
+          <td class="violation ">
+            
+            
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9398</td>
+          <td class="violation ">Управляющие инвестиционным портфелем</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=1169">АО "First Heartland Jysan Invest" (прежнее наименование - АО "Цесна Капитал")</a></td>
+          <td class="violation  creationdate">25.07.2014</td>
+          <td class="violation ">140000803000286</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">185 200 KZT</td>
+          <td class="violation ">
+            
+            
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9399</td>
+          <td class="violation ">Управляющие инвестиционным портфелем</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=1169">АО "First Heartland Jysan Invest" (прежнее наименование - АО "Цесна Капитал")</a></td>
+          <td class="violation  creationdate">25.07.2014</td>
+          <td class="violation ">140000803000284</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">370 400 тг.</td>
+          <td class="violation ">
+            
+            нарушение субъектом рынка ценных бумаг требований по предоставлению отчетности, информации, сведений уполномоченному органу по контролю и надзору финансового рынка и финансовых организаций
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation ">ч.1 ст.193</td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">9400</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=20">АО "Нурбанк"</a></td>
+          <td class="violation  creationdate">25.07.2014</td>
+          <td class="violation "></td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Предупреждение</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам соблюдения требований валютного законодательства</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">9401</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=25">ДБ АО "Сбербанк России" (прежнее наименование - АО "ТEXAКABANK")</a></td>
+          <td class="violation  creationdate">25.07.2014</td>
+          <td class="violation "></td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Предупреждение</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам соблюдения требований валютного законодательства</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+    </tbody>
+  </table>
+  

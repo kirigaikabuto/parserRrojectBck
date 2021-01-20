@@ -1,0 +1,2291 @@
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+  <table class="dataTable hover" cellpadding="10px" cellspacing="0px">
+    <thead>
+      <tr>
+        <th>№</th>
+        
+                  <th class="organizationtype sorting">
+              
+              <a href="/index.cfm?docid=3227&switch=russian&organization=&organizationid=&organizationtypeid=&typeid=&kindid=&startdate=&enddate=&npatypeid=&sourceid=&start=10501&view=new&sorting=organizationtype"><b>Тип  организации</b></a>
+                </th>
+              
+                  <th class="organization sorting">
+              
+              <a href="/index.cfm?docid=3227&switch=russian&organization=&organizationid=&organizationtypeid=&typeid=&kindid=&startdate=&enddate=&npatypeid=&sourceid=&start=10501&view=new&sorting=organization"><b>Наименование организации/ФИО</b></a>
+                </th>
+              
+                  <th class="creationdate sorting">
+              
+              <a href="/index.cfm?docid=3227&switch=russian&organization=&organizationid=&organizationtypeid=&typeid=&kindid=&startdate=&enddate=&npatypeid=&sourceid=&start=10501&view=new&sorting=creationdate"><b>Дата принятия решения/дела</b></a>
+                </th>
+              
+                  <th class="number sorting">
+              
+              <a href="/index.cfm?docid=3227&switch=russian&organization=&organizationid=&organizationtypeid=&typeid=&kindid=&startdate=&enddate=&npatypeid=&sourceid=&start=10501&view=new&sorting=number"><b>Номер принятия решения/дела</b></a>
+                </th>
+              
+                  <th class="kind sorting">
+              
+              <a href="/index.cfm?docid=3227&switch=russian&organization=&organizationid=&organizationtypeid=&typeid=&kindid=&startdate=&enddate=&npatypeid=&sourceid=&start=10501&view=new&sorting=kind"><b>Вид взыскания</b></a>
+                </th>
+              
+                  <th class="type sorting">
+              
+              <a href="/index.cfm?docid=3227&switch=russian&organization=&organizationid=&organizationtypeid=&typeid=&kindid=&startdate=&enddate=&npatypeid=&sourceid=&start=10501&view=new&sorting=type"><b>Тип взыскания</b></a>
+                </th>
+              
+                  <th class="totalsum sorting">
+              
+              <a href="/index.cfm?docid=3227&switch=russian&organization=&organizationid=&organizationtypeid=&typeid=&kindid=&startdate=&enddate=&npatypeid=&sourceid=&start=10501&view=new&sorting=totalsum"><b>Наложенное взыскание</b></a>
+                </th>
+              
+              <th class="content">Существо нарушения</th>
+            
+              <th class="deadline">Срок исполнения</th>
+            
+              <th class="article">Статья/пункты НПА, Статья КоАП</th>
+            
+              <th class="comment">Примечание</th>
+            
+                  <th class="npatype sorting">
+              
+              <a href="/index.cfm?docid=3227&switch=russian&organization=&organizationid=&organizationtypeid=&typeid=&kindid=&startdate=&enddate=&npatypeid=&sourceid=&start=10501&view=new&sorting=npatype"><b>Тип НПА</b></a>
+                </th>
+              
+                  <th class="source sorting">
+              
+              <a href="/index.cfm?docid=3227&switch=russian&organization=&organizationid=&organizationtypeid=&typeid=&kindid=&startdate=&enddate=&npatypeid=&sourceid=&start=10501&view=new&sorting=source"><b>Наименование ТФ НБ РК/департамента ЦФ</b></a>
+                </th>
+              
+        
+      </tr>
+    </thead>
+    <tbody>
+      
+        <tr>
+          <td class="">10501</td>
+          <td class="violation ">Страховые (перестраховочные) организации</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=74">АО "Компания по страхованию жизни  "Nomad Life" (прежнее наименование АО "КСЖ "Астана-Финанс")</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-5-2-07/3212</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письмо-обязательство</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            За некорректный расчет страховой премии по договору страхования
+            </td>
+          <td class="violation ">
+            18.11.2013 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Представлено</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10502</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=962">АО "Транстелеком"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5369</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письмо-обязательство</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 4 статьи 9 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            03.12.2013г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Продление срока исполнения </td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10503</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=601">АО "Казахская дистрибуционная компания"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"№ 66-4-3-20/5381 № 66-4-3-20/5381 
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10504</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=887">АО "Роса"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Исполнено №75765 от 03.12.2013</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10505</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=283">АО "C.I.S."-BETON" /"СИАЙЭС"-БЕТОН"/</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10506</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=1116">ОТКРЫТОЕ АО "ОРКЕН"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10507</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=1026">АО "ШАЙМЕРДЕН"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10508</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=582">АО "ИПОТЕЧНАЯ ОРГАНИЗАЦИЯ "КУРЫЛЫС ИПОТЕКА"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10509</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=1124">ТОО "PARKOM"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10510</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=1083">АО КПП-АКТАУ</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Возврат письма в связи с отсуствием адресата</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10511</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=589">АО "ІСКЕ СЈТ COMPANY"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10512</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=933">АО "СТРОИТЕЛЬНО-МОНТАЖНОЕ УПРАВЛЕНИЕ-№ 10"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10513</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=591">АО "КАЗАВТОТРАНС"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10514</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=941">АО "ТАМЫЗ HOLDING "</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10515</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=1117">ОТКРЫТОЕ АО "ШАРАП"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10516</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=956">АО "ТОРГОВО-ПРОМЫШЛЕННАЯ КОМПАНИЯ ГЕРБИЦИДЫ"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10517</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=371">АО "АВИАКОМПАНИЯ АЭРОТРАНС"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10518</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=447">АО "Альтернативные финансы"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10519</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=725">АО "ЛЕСНОЙ ПИТОМНИК"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Исполнено №13897 от 27.02.2014</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10520</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=650">АО "КАЗНЕФТЕГАЗРАЗРАБОТКА"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10521</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=1009">АО "ХОЛДИНГОВАЯ КОМПАНИЯ "КУАТ"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Исполнено №6942 от 29.01.2014 года</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10522</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=651">АО "КАЗНЕФТЕХИМ"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10523</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=383">АО "АГРОХОЛДИНГ ЕЛ-ИНВЕСТ"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Возврат письма в связи с отсуствием адресата</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10524</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=656">АО "КАЗСТРОЙТРАНСГАЗ"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10525</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=714">АО "Корпорация Жетысугаз"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10526</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=1035">АО "ЭКОПРОДУКТГРУП"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10527</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=299">АО "GLOTUR"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Возврат письма в связи с отсуствием адресата</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10528</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=510">АО "Гидропромстрой"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10529</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=570">АО "ИННОВАЦИОННЫЙ ФРАНЧАЙЗИНГОВЫЙ ЦЕНТР "БОНУС-Ф"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10530</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=587">АО "ИСКЕР"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Представили письмо о невозможности заключения договора с регистратором №73004 от 18.11.2013</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10531</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=676">АО "КАРАГАНДИНСКИЙ ЗАВОД АСБЕСТОЦЕМЕНТНЫХ ИЗДЕЛИЙ"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10532</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=291">АО "CORPORATION NAM"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Представили письмо о невозможности заключения договора с регистратором №76972 от 09.12.2013</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10533</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=271">АО "ALMATY BUSINESS CAPITAL"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10534</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=374">АО "Авиакомпания ЮЖНАЯ"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10535</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=419">АО "АЛА Инвест"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10536</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=932">АО "СТРОИТЕЛЬНАЯ КОМПАНИЯ "АЛАТАУ"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10537</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=1138">ТОО "Парижская коммуна-XXI"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10538</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=450">АО "АНЕЛЬСТРОЙСЕРВИС"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10539</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=1122">ТОО "Complete LTD"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10540</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=683">АО "КАСКОР-ТЕЛЕКОМ"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Возврат письма в связи с отсуствием адресата</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10541</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=830">АО "ОПТИКА"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10542</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=770">АО "НАРОДНАЯ КОМПАНИЯ "АЛТЫН КАЛКАН"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10543</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=495">АО "БУЛОЧНО-КОНДИТЕРСКИЙ КОМБИНАТ"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10544</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=707">АО "КОНЦЕРН "АЗИЯ-ЦЕНТР И К"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Возврат письма в связи с отсуствием адресата</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10545</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=1108">ЗАКРЫТОЕ АО "ИННОВАЦИЯ"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10546</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=833">АО "ОРГАНИЗАЦИЯ, ОСУЩЕСТВЛЯЮЩАЯ ИНВЕСТИЦИОННОЕ УПРАВЛЕНИЕ ПЕНСИОННЫМИ АКТИВАМИ "УПРАВЛЯЮЩАЯ КОМПАНИЯ "АЛАН"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10547</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=890">АО "РТ ХОЛДИНГ"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10548</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=1113">ОТКРЫТОЕ АО "АЛМАТЫАВТОМАТИКА"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Возврат письма в связи с отсуствием адресата</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10549</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=538">АО "ЖАЗЫК"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10550</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=311">АО "KAPS INTL" ("КАПС ИНТЭЛ")</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10551</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=976">АО "УПРАВЛЯЮЩАЯ КОМПАНИЯ "ДЕЛЬТА-ИНВЕСТ"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10552</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=490">АО "БЕТИГ"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10553</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=713">АО "Корпорация KUAT"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10554</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=229">АО "HEAVEN HOUSE"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10555</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=347">АО "VITA"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10556</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=961">АО "Трансстроймост"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10557</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=744">АО "Материально-техническое обеспечение индустрии спорта"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10558</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=1111">Некоммерческое АО "Есильский аграрно-технический институт"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10559</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=252">АО "Caspian Pipe Industries"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10560</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=348">АО "VOSTOK CAPITAL"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10561</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=979">АО "УРАЛ-ПОЛИПЛАСТ"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10562</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=984">АО "УРАЛЬСКОБЛГАЗ"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10563</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=654">АО "Казстройпромтехмонтаж"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10564</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=1103">АО"РУЛАНД-АГРОЛИЗИНГ"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10565</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=882">АО "РЕСПУБЛИКАНСКИЙ ЦЕНТР "КАЗИМПЭКС"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10566</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=690">АО "Кен Дала.KZ"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10567</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=452">АО "Ареал"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10568</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=562">АО "Илийский Картонно-Бумажный Комбинат"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10569</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=1099">АО"АВИАКОМПАНИЯ ПЕРАН"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Возврат письма в связи с отсуствием адресата</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10570</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=470">АО "АТЫРАУ" ПО ПЛЕМРАБОТЕ</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10571</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=553">АО "ЖУАЛЫНСКОЕ ПАК"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10572</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=1077">АО ЗАБОТА</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Возврат письма в связи с отсуствием адресата</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10573</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=719">АО "КУАНЫШ"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Частично исполнено №8547 от 04.02.2014 (копию договора не представили)</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10574</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=1106">АОЗТ "ЛУКОЙЛ-АНПЗ"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10575</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=362">АО "Авиакомпания "АТМА"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Исполнено №10-238 от 31.01.2014г</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10576</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=282">АО "BIOS"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10577</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=335">АО "PROFIT-LINE"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">возврат письма, письмо направлено по новому адресу </td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10578</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=245">АО "ТЕХНОПАРК КАЗНТУ ИМЕНИ К.И.САТПАЕВА"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10579</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=238">АО "Алматинский Финансовый Центр"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10580</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=982">АО "Уральский завод металлоконструкций и цинкования"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">исполнен № 66-4-3-20/5381</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10581</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=610">АО "Казахстан Инвест Комир"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10582</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=402">АО "АК БУЛЫН"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10583</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=496">АО "БУРЛИНГАЗСТРОЙ"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10584</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=259">АО " ЛИСАКОВСКОЕ АТП"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10585</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=730">АО "ЛИСАКОВСКИЙ СТЕКОЛЬНЫЙ ЗАВОД"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Возврат письма в связи с отсуствием адресата</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10586</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=1114">ОТКРЫТОЕ АО "КАСКОР-ПРИБОРИСТ"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Возврат письма в связи с отсуствием адресата</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10587</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=565">АО "ИНВЕСТИЦИОННАЯ КОМПАНИЯ "МАНГИСТАУ"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Возврат письма в связи с отсуствием адресата</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10588</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=856">АО "Промышленная корпорация "Южполиметалл"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Представили письмо о невозможности заключения договора с регистратором №76460 от 09.12.2013</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10589</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=515">АО "ГОРНО-РУДНАЯ КОМПАНИЯ "АЛТЫН ТОБЕ"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10590</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=350">АО "WHITE FISH OF KAZAKHSTAN"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10591</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=1127">ТОО "Акмола Курлыс Материалдары"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10592</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=850">АО "Племенное хозяйство "Астана-кус"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10593</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=952">АО "Товарная биржа Сельхозпроизводителей, недропользователей и государственных учреждений"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10594</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=365">АО "Авиакомпания "Жетысу"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10595</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=1064">АО АГРООНТУСТIК КУС</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10596</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=401">АО "Ак Бидай -Терминал"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10597</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=421">АО "АЛАТАУСТРОЙИНВЕСТ"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10598</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=473">АО "АЦТО"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10599</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=1102">АО"ЖЫЛЫОЙ-НАН"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Возврат письма в связи с отсуствием адресата</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10600</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=1085">АО МАКТААР.НТЦ АГРОХИМСЕРТИКО</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation ">Возврат письма в связи с отсуствием адресата</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+        <tr>
+          <td class="">10601</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=886">АО "РИС КАЗАХСТАНА"</a></td>
+          <td class="violation  creationdate">11.11.2013</td>
+          <td class="violation ">66-4-3-20/5381г</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Нарушение требований пункта 1 статьи 65 ЗРК "О рынке ценных бумаг"    
+            </td>
+          <td class="violation ">
+            01.02.2014г. 
+          </td>
+          <td class="violation "></td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation "></td>
+        </tr>
+      
+    </tbody>
+  </table>
+  

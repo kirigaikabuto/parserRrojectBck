@@ -1,0 +1,950 @@
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+  <table class="dataTable hover" cellpadding="10px" cellspacing="0px">
+    <thead>
+      <tr>
+        <th>№</th>
+        
+                  <th class="organizationtype sorting">
+              
+              <a href="/index.cfm?docid=3227&switch=russian&organization=&organizationid=&organizationtypeid=&typeid=&kindid=&startdate=&enddate=&npatypeid=&sourceid=&start=301&view=new&sorting=organizationtype"><b>Тип  организации</b></a>
+                </th>
+              
+                  <th class="organization sorting">
+              
+              <a href="/index.cfm?docid=3227&switch=russian&organization=&organizationid=&organizationtypeid=&typeid=&kindid=&startdate=&enddate=&npatypeid=&sourceid=&start=301&view=new&sorting=organization"><b>Наименование организации/ФИО</b></a>
+                </th>
+              
+                  <th class="creationdate sorting">
+              
+              <a href="/index.cfm?docid=3227&switch=russian&organization=&organizationid=&organizationtypeid=&typeid=&kindid=&startdate=&enddate=&npatypeid=&sourceid=&start=301&view=new&sorting=creationdate"><b>Дата принятия решения/дела</b></a>
+                </th>
+              
+                  <th class="number sorting">
+              
+              <a href="/index.cfm?docid=3227&switch=russian&organization=&organizationid=&organizationtypeid=&typeid=&kindid=&startdate=&enddate=&npatypeid=&sourceid=&start=301&view=new&sorting=number"><b>Номер принятия решения/дела</b></a>
+                </th>
+              
+                  <th class="kind sorting">
+              
+              <a href="/index.cfm?docid=3227&switch=russian&organization=&organizationid=&organizationtypeid=&typeid=&kindid=&startdate=&enddate=&npatypeid=&sourceid=&start=301&view=new&sorting=kind"><b>Вид взыскания</b></a>
+                </th>
+              
+                  <th class="type sorting">
+              
+              <a href="/index.cfm?docid=3227&switch=russian&organization=&organizationid=&organizationtypeid=&typeid=&kindid=&startdate=&enddate=&npatypeid=&sourceid=&start=301&view=new&sorting=type"><b>Тип взыскания</b></a>
+                </th>
+              
+                  <th class="totalsum sorting">
+              
+              <a href="/index.cfm?docid=3227&switch=russian&organization=&organizationid=&organizationtypeid=&typeid=&kindid=&startdate=&enddate=&npatypeid=&sourceid=&start=301&view=new&sorting=totalsum"><b>Наложенное взыскание</b></a>
+                </th>
+              
+              <th class="content">Существо нарушения</th>
+            
+              <th class="deadline">Срок исполнения</th>
+            
+              <th class="article">Статья/пункты НПА, Статья КоАП</th>
+            
+              <th class="comment">Примечание</th>
+            
+                  <th class="npatype sorting">
+              
+              <a href="/index.cfm?docid=3227&switch=russian&organization=&organizationid=&organizationtypeid=&typeid=&kindid=&startdate=&enddate=&npatypeid=&sourceid=&start=301&view=new&sorting=npatype"><b>Тип НПА</b></a>
+                </th>
+              
+                  <th class="source sorting">
+              
+              <a href="/index.cfm?docid=3227&switch=russian&organization=&organizationid=&organizationtypeid=&typeid=&kindid=&startdate=&enddate=&npatypeid=&sourceid=&start=301&view=new&sorting=source"><b>Наименование ТФ НБ РК/департамента ЦФ</b></a>
+                </th>
+              
+        
+      </tr>
+    </thead>
+    <tbody>
+      
+        <tr>
+          <td class="">301</td>
+          <td class="violation ">Организация, осуществляющая микрофинансовую деятельность</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=3249">ТОО «Ломбард BENEFID» </a></td>
+          <td class="violation  creationdate">19.08.2020</td>
+          <td class="violation ">№32-0-28/307</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            превышение установленного ГК РК размера ГЭСВ 
+            </td>
+          <td class="violation ">
+            19.09.2020 
+          </td>
+          <td class="violation ">Подпункт 5) пункта 1 статьи 725-1 Гражданского Кодекса Республики Казахстан</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Управление региональных представителей в городе Уральске</td>
+        </tr>
+      
+        <tr>
+          <td class="">302</td>
+          <td class="violation ">Организация, осуществляющая микрофинансовую деятельность</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=3253">ТОО «Ломбард WEST» </a></td>
+          <td class="violation  creationdate">19.08.2020</td>
+          <td class="violation ">32-0-28/305</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            превышение установленного ГК РК размера ГЭСВ 
+            </td>
+          <td class="violation ">
+            19.09.2020 
+          </td>
+          <td class="violation ">Подпункт 5) пункта 1 статьи 725-1 Гражданского Кодекса Республики Казахстан</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Управление региональных представителей в городе Уральске</td>
+        </tr>
+      
+        <tr>
+          <td class="">303</td>
+          <td class="violation ">Организация, осуществляющая микрофинансовую деятельность</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=3258">ТОО «Алтын Батыс Ломбард»</a></td>
+          <td class="violation  creationdate">19.08.2020</td>
+          <td class="violation ">32-0-28/306</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            превышение установленного ГК РК размера ГЭСВ 
+            </td>
+          <td class="violation ">
+            19.09.2020 
+          </td>
+          <td class="violation ">Подпункт 5) пункта 1 статьи 725-1 Гражданского Кодекса Республики Казахстан</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Управление региональных представителей в городе Уральске</td>
+        </tr>
+      
+        <tr>
+          <td class="">304</td>
+          <td class="violation ">Организация, осуществляющая микрофинансовую деятельность</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=3342">ТОО «Ломбард-Игилик»</a></td>
+          <td class="violation  creationdate">19.08.2020</td>
+          <td class="violation ">201900443000083</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">138 900 </td>
+          <td class="violation ">
+            
+            Административное правонарушение выразилось в не указании размера годовой эффективной ставки вознаграждения, рассчитанной в порядке, установленном законодательством Республики Казахстан.
+            </td>
+          <td class="violation ">
+            18.09.2020 
+          </td>
+          <td class="violation ">часть 5 статья 211 КоАП</td>
+          <td class="violation ">Исполнено</td>
+          <td class="violation ">Гражданский кодекс Республики Казахстан</td>
+          <td class="violation ">Алматинский областной филиал (Талдыкорган) </td>
+        </tr>
+      
+        <tr>
+          <td class="">305</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=996">АО "ФОНД ВЫСОКИХ ТЕХНОЛОГИЙ"АРЕКЕТ"</a></td>
+          <td class="violation  creationdate">19.08.2020</td>
+          <td class="violation ">200000443000332</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">138900 тенге</td>
+          <td class="violation ">
+            
+            неоднократное (два и более раза в течение шести последовательных календарных месяцев) не раскрытие в установленные сроки информации о своей деятельности
+            </td>
+          <td class="violation ">
+            02.10.2020 
+          </td>
+          <td class="violation ">пункт 2 статьи 102 Закона  о РЦБ</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам мониторинга эмитентов ценных бумаг</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">306</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=1076">АО Государственный театр оперы балета "Астана Опера"</a></td>
+          <td class="violation  creationdate">18.08.2020</td>
+          <td class="violation ">200000443000328</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">138 900 тг.</td>
+          <td class="violation ">
+            
+            неоднократном (два и более раза в течение шести последовательных календарных месяцев) нераскрытии в установленные сроки информации о своей деятельности 
+            </td>
+          <td class="violation ">
+            28.09.2020 
+          </td>
+          <td class="violation ">пункта 2 статьи 102 Закона о рынке ценных бумаг</td>
+          <td class="violation ">исполнено письмом №27644 от 04.09.2020, платежное поручение №7525 от 25.08.2020</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">307</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=6">АО «Tengri Bank» (прежнее название АО "«Дочерний банк «Punjab National Bank»-Казахстан»")</a></td>
+          <td class="violation  creationdate">18.08.2020</td>
+          <td class="violation ">01-2-10/1594</td>
+          <td class="violation ">Меры надзорного реагирования</td>
+          <td class="violation ">Меры по улучшению финансового состояния и (или) минимизации рисков (письменное предписание)</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            В целях улучшения финансового состояния и минимизации рисков
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation ">В соответствии с требованиями статьи 46 Закона о банках к Банку применено письменное предписание за нарушения требований законодательства Республики Казахстан</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">308</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=16">АО "AsiaCredit Bank (Азия Кредит Банк)"(прежнее наименование АО "СБ "ЛАРИБА-БАНК")</a></td>
+          <td class="violation  creationdate">14.08.2020</td>
+          <td class="violation ">205500443000074</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">555 600</td>
+          <td class="violation ">
+            
+            за несвоевременное исполнение указаний по платежу и (или) переводу денег, в нарушение сроков, установленных Законом Республики Казахстан «О платежах и платежных системах». 
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation ">Часть 1 статьи 220 Кодекса Республики Казахстан об административных правонарушениях</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам соблюдения законодательства по платежам и переводам денег</td>
+          <td class="violation ">Управление региональных представителей в городе Павлодар</td>
+        </tr>
+      
+        <tr>
+          <td class="">309</td>
+          <td class="violation ">Организация, осуществляющая микрофинансовую деятельность</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=3263">ТОО «Fort Ломбард DN»</a></td>
+          <td class="violation  creationdate">14.08.2020</td>
+          <td class="violation ">34-0-28/873</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            По результатам инспекторской проверки
+            </td>
+          <td class="violation ">
+            14.09.2020 
+          </td>
+          <td class="violation ">В соответствии со статьей 28 Закона Республики Казахстан «О микрофинансовой деятельности» мера воздействия в связи с несоблюдением требований законов Республики Казахстан и нормативных правовых актов уполномоченного органа.</td>
+          <td class="violation ">исполнено</td>
+          <td class="violation ">по вопросам регулирования микрофинансовых организаций</td>
+          <td class="violation ">Управление региональных представителей в городе Шымкент</td>
+        </tr>
+      
+        <tr>
+          <td class="">310</td>
+          <td class="violation ">Банк второго уровня</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=16">АО "AsiaCredit Bank (Азия Кредит Банк)"(прежнее наименование АО "СБ "ЛАРИБА-БАНК")</a></td>
+          <td class="violation  creationdate">14.08.2020</td>
+          <td class="violation ">203500443000074</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">50 000 тенге</td>
+          <td class="violation ">
+            
+            за несвоевременное исполнение указаний по платежу и (или) переводу денег, в нарушение сроков, установленных Законом Республики Казахстан «О платежах и платежных системах».
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation ">часть 1 статьи 220 Кодекса РК "Об административных правонарушениях"</td>
+          <td class="violation "></td>
+          <td class="violation ">Закон Республики Казахстан "О платежах и платежных системах"</td>
+          <td class="violation ">Управление региональных представителей в городе Караганда</td>
+        </tr>
+      
+        <tr>
+          <td class="">311</td>
+          <td class="violation ">Организация, осуществляющая микрофинансовую деятельность</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=3339">ТОО «Ломбард «АКЖ и К»</a></td>
+          <td class="violation  creationdate">13.08.2020</td>
+          <td class="violation ">201900443000060<br> 201900443000061<br> 201900443000062<br> 201900443000063<br> 201900443000064<br> 201900443000065<br> 201900443000066<br> 201900443000067<br> 201900443000068<br> 201900443000069</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">1 389 000</td>
+          <td class="violation ">
+            
+            Административное правонарушение выразилось в не указании размера годовой эффективной ставки вознаграждения, рассчитанной в порядке, установленном законодательством Республики Казахстан.
+            </td>
+          <td class="violation ">
+            11.09.2020 
+          </td>
+          <td class="violation ">часть 5 статья 211 КоАП</td>
+          <td class="violation ">Исполнено</td>
+          <td class="violation ">Гражданский кодекс Республики Казахстан</td>
+          <td class="violation ">Алматинский областной филиал (Талдыкорган) </td>
+        </tr>
+      
+        <tr>
+          <td class="">312</td>
+          <td class="violation ">Организация, осуществляющая микрофинансовую деятельность</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=3332">ТОО «ДИАДЭ-ЛОМБАРД»</a></td>
+          <td class="violation  creationdate">13.08.2020</td>
+          <td class="violation ">29-0-11/1739</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            По результатам инспекторской проверки
+            </td>
+          <td class="violation ">
+            04.09.2020 
+          </td>
+          <td class="violation ">В соответствии со статьей 28 Закона Республики Казахстан «О микрофинансовых организациях» мера воздействия в связи с несоблюдением требований законов Республики Казахстан и нормативных правовых актов уполномоченного органа.</td>
+          <td class="violation ">Исполнено</td>
+          <td class="violation ">по вопросам регулирования микрофинансовых организаций</td>
+          <td class="violation ">Алматинский областной филиал (Талдыкорган) </td>
+        </tr>
+      
+        <tr>
+          <td class="">313</td>
+          <td class="violation ">Организация, осуществляющая микрофинансовую деятельность</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=3335">ТОО «Ломбард Rich Brand»</a></td>
+          <td class="violation  creationdate">13.08.2020</td>
+          <td class="violation ">29-0-11/1740</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            По результатам инспекторской проверки
+            </td>
+          <td class="violation ">
+            04.09.2020 
+          </td>
+          <td class="violation ">В соответствии со статьей 28 Закона Республики Казахстан «О микрофинансовых организациях» мера воздействия в связи с несоблюдением требований законов Республики Казахстан и нормативных правовых актов уполномоченного органа.</td>
+          <td class="violation ">Исполнено</td>
+          <td class="violation ">по вопросам регулирования микрофинансовых организаций</td>
+          <td class="violation ">Алматинский областной филиал (Талдыкорган) </td>
+        </tr>
+      
+        <tr>
+          <td class="">314</td>
+          <td class="violation ">Организация, осуществляющая микрофинансовую деятельность</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=3339">ТОО «Ломбард «АКЖ и К»</a></td>
+          <td class="violation  creationdate">13.08.2020</td>
+          <td class="violation ">29-0-11/1741</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            По результатам инспекторской проверки
+            </td>
+          <td class="violation ">
+            04.09.2020 
+          </td>
+          <td class="violation ">В соответствии со статьей 28 Закона Республики Казахстан «О микрофинансовых организациях» мера воздействия в связи с несоблюдением требований законов Республики Казахстан и нормативных правовых актов уполномоченного органа.</td>
+          <td class="violation ">Исполнено </td>
+          <td class="violation ">по вопросам регулирования микрофинансовых организаций</td>
+          <td class="violation ">Алматинский областной филиал (Талдыкорган) </td>
+        </tr>
+      
+        <tr>
+          <td class="">315</td>
+          <td class="violation ">Организация, осуществляющая микрофинансовую деятельность</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=3338">ТОО «Ломбард Вега»</a></td>
+          <td class="violation  creationdate">13.08.2020</td>
+          <td class="violation ">29-0-11/1742</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            По результатам инспекторской проверки
+            </td>
+          <td class="violation ">
+            04.09.2020 
+          </td>
+          <td class="violation ">В соответствии со статьей 28 Закона Республики Казахстан «О микрофинансовых организациях» мера воздействия в связи с несоблюдением требований законов Республики Казахстан и нормативных правовых актов уполномоченного органа.</td>
+          <td class="violation ">Исполнено</td>
+          <td class="violation ">по вопросам регулирования микрофинансовых организаций</td>
+          <td class="violation ">Алматинский областной филиал (Талдыкорган) </td>
+        </tr>
+      
+        <tr>
+          <td class="">316</td>
+          <td class="violation ">Организация, осуществляющая микрофинансовую деятельность</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=3337">ТОО «Зергер ломбард»</a></td>
+          <td class="violation  creationdate">13.08.2020</td>
+          <td class="violation ">29-0-11/1743</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            По результатам инспекторской проверки
+            </td>
+          <td class="violation ">
+            04.09.2020 
+          </td>
+          <td class="violation ">В соответствии со статьей 28 Закона Республики Казахстан «О микрофинансовых организациях» мера воздействия в связи с несоблюдением требований законов Республики Казахстан и нормативных правовых актов уполномоченного органа.</td>
+          <td class="violation ">Исполнено</td>
+          <td class="violation ">по вопросам регулирования микрофинансовых организаций</td>
+          <td class="violation ">Алматинский областной филиал (Талдыкорган) </td>
+        </tr>
+      
+        <tr>
+          <td class="">317</td>
+          <td class="violation ">Организация, осуществляющая микрофинансовую деятельность</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=3342">ТОО «Ломбард-Игилик»</a></td>
+          <td class="violation  creationdate">13.08.2020</td>
+          <td class="violation ">29-0-11/1745</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            По результатам инспекторской проверки
+            </td>
+          <td class="violation ">
+            04.09.2020 
+          </td>
+          <td class="violation ">В соответствии со статьей 28 Закона Республики Казахстан «О микрофинансовых организациях» мера воздействия в связи с несоблюдением требований законов Республики Казахстан и нормативных правовых актов уполномоченного органа.</td>
+          <td class="violation ">Исполнено</td>
+          <td class="violation ">по вопросам регулирования микрофинансовых организаций</td>
+          <td class="violation ">Алматинский областной филиал (Талдыкорган) </td>
+        </tr>
+      
+        <tr>
+          <td class="">318</td>
+          <td class="violation ">Организация, осуществляющая микрофинансовую деятельность</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=3340">ТОО «ЛОМБАРД МАКТУБ»</a></td>
+          <td class="violation  creationdate">13.08.2020</td>
+          <td class="violation ">29-0-11/1738</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            По результатам инспекторской проверки
+            </td>
+          <td class="violation ">
+            04.09.2020 
+          </td>
+          <td class="violation ">В соответствии со статьей 28 Закона Республики Казахстан «О микрофинансовых организациях» мера воздействия в связи с несоблюдением требований законов Республики Казахстан и нормативных правовых актов уполномоченного органа.</td>
+          <td class="violation ">Исполнено</td>
+          <td class="violation ">по вопросам регулирования микрофинансовых организаций</td>
+          <td class="violation ">Алматинский областной филиал (Талдыкорган) </td>
+        </tr>
+      
+        <tr>
+          <td class="">319</td>
+          <td class="violation ">Организация, осуществляющая микрофинансовую деятельность</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=3343">ТОО «Ломбард «Маржан»</a></td>
+          <td class="violation  creationdate">13.08.2020</td>
+          <td class="violation ">29-0-11/1764</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            По результатам инспекторской проверки
+            </td>
+          <td class="violation ">
+            04.09.2020 
+          </td>
+          <td class="violation ">В соответствии со статьей 28 Закона Республики Казахстан «О микрофинансовых организациях» мера воздействия в связи с несоблюдением требований законов Республики Казахстан и нормативных правовых актов уполномоченного органа.</td>
+          <td class="violation ">Исполнено</td>
+          <td class="violation ">по вопросам регулирования микрофинансовых организаций</td>
+          <td class="violation ">Алматинский областной филиал (Талдыкорган) </td>
+        </tr>
+      
+        <tr>
+          <td class="">320</td>
+          <td class="violation ">Организация, осуществляющая микрофинансовую деятельность</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=3341">ТОО «Ломбард Нұр-Али»</a></td>
+          <td class="violation  creationdate">13.08.2020</td>
+          <td class="violation ">29-0-11/1763</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            По результатам инспекторской проверки
+            </td>
+          <td class="violation ">
+            04.09.2020 
+          </td>
+          <td class="violation ">В соответствии со статьей 28 Закона Республики Казахстан «О микрофинансовых организациях» мера воздействия в связи с несоблюдением требований законов Республики Казахстан и нормативных правовых актов уполномоченного органа.</td>
+          <td class="violation ">Исполнено</td>
+          <td class="violation ">по вопросам регулирования микрофинансовых организаций</td>
+          <td class="violation ">Алматинский областной филиал (Талдыкорган) </td>
+        </tr>
+      
+        <tr>
+          <td class="">321</td>
+          <td class="violation ">Организация, осуществляющая микрофинансовую деятельность</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=3334">ТОО «Ломбард Сәттімир»</a></td>
+          <td class="violation  creationdate">13.08.2020</td>
+          <td class="violation ">29-0-11/1737</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            По результатам инспекторской проверки
+            </td>
+          <td class="violation ">
+            04.09.2020 
+          </td>
+          <td class="violation ">В соответствии со статьей 28 Закона Республики Казахстан «О микрофинансовых организациях» мера воздействия в связи с несоблюдением требований законов Республики Казахстан и нормативных правовых актов уполномоченного органа.</td>
+          <td class="violation ">Исполнено</td>
+          <td class="violation ">по вопросам регулирования микрофинансовых организаций</td>
+          <td class="violation ">Алматинский областной филиал (Талдыкорган) </td>
+        </tr>
+      
+        <tr>
+          <td class="">322</td>
+          <td class="violation ">Организация, осуществляющая микрофинансовую деятельность</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=3333">ТОО «Мейер-Ломбард» </a></td>
+          <td class="violation  creationdate">13.08.2020</td>
+          <td class="violation ">29-0-11/1744</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            По результатам инспекторской проверки
+            </td>
+          <td class="violation ">
+            04.09.2020 
+          </td>
+          <td class="violation ">В соответствии со статьей 28 Закона Республики Казахстан «О микрофинансовых организациях» мера воздействия в связи с несоблюдением требований законов Республики Казахстан и нормативных правовых актов уполномоченного органа.</td>
+          <td class="violation ">Исполнено</td>
+          <td class="violation ">по вопросам регулирования микрофинансовых организаций</td>
+          <td class="violation ">Алматинский областной филиал (Талдыкорган) </td>
+        </tr>
+      
+        <tr>
+          <td class="">323</td>
+          <td class="violation ">Организация, осуществляющая микрофинансовую деятельность</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=3332">ТОО «ДИАДЭ-ЛОМБАРД»</a></td>
+          <td class="violation  creationdate">12.08.2020</td>
+          <td class="violation ">201900443000004<br> 201900443000005<br> 201900443000006<br> 201900443000007<br> 201900443000008<br> 201900443000009<br> 201900443000010<br> 201900443000011<br> 201900443000012<br> 201900443000013</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">1 389 000</td>
+          <td class="violation ">
+            
+            Административное правонарушение выразилось в не указании размера годовой эффективной ставки вознаграждения, рассчитанной в порядке, установленном законодательством Республики Казахстан.
+            </td>
+          <td class="violation ">
+            11.09.2020 
+          </td>
+          <td class="violation ">часть 5 статья 211 КоАП</td>
+          <td class="violation ">Исполнено</td>
+          <td class="violation ">Гражданский кодекс Республики Казахстан</td>
+          <td class="violation ">Алматинский областной филиал (Талдыкорган) </td>
+        </tr>
+      
+        <tr>
+          <td class="">324</td>
+          <td class="violation ">Организация, осуществляющая микрофинансовую деятельность</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=3333">ТОО «Мейер-Ломбард» </a></td>
+          <td class="violation  creationdate">12.08.2020</td>
+          <td class="violation ">201900443000034<br> 201900443000035<br> 201900443000036<br> 201900443000037<br> 201900443000038<br> 201900443000039<br> 201900443000040<br> 201900443000041<br> 201900443000042<br> 201900443000043</td>
+          <td class="violation ">Санкции и иные административные взыскания</td>
+          <td class="violation ">Наложение административного штрафа</td>
+          <td class="violation ">1 389 000</td>
+          <td class="violation ">
+            
+            Административное правонарушение выразилось в не указании размера годовой эффективной ставки вознаграждения, рассчитанной в порядке, установленном законодательством Республики Казахстан.
+            </td>
+          <td class="violation ">
+            11.09.2020 
+          </td>
+          <td class="violation ">часть 5 статья 211 КоАП</td>
+          <td class="violation ">Исполнено</td>
+          <td class="violation ">Гражданский кодекс Республики Казахстан</td>
+          <td class="violation ">Алматинский областной филиал (Талдыкорган) </td>
+        </tr>
+      
+        <tr>
+          <td class="">325</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=202">АО "Prime Aviation"</a></td>
+          <td class="violation  creationdate">12.08.2020</td>
+          <td class="violation ">03-4-17/1560</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            За нарушение порядка раскрытия информации, установленного ст. 102 Закона РК "О рынке ценных бумаг"
+            </td>
+          <td class="violation ">
+            04.09.2020 
+          </td>
+          <td class="violation "> пункт 2 102 Закона о РЦБ</td>
+          <td class="violation ">исполнено письмом от 03.09.2020г. №РА385</td>
+          <td class="violation ">по вопросам мониторинга эмитентов ценных бумаг</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">326</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=559">АО "Заря"</a></td>
+          <td class="violation  creationdate">12.08.2020</td>
+          <td class="violation ">03-4-17/1562</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            За нарушение порядка раскрытия информации, установленного ст. 102 Закона РК "О рынке ценных бумаг"
+            </td>
+          <td class="violation ">
+            04.09.2020 
+          </td>
+          <td class="violation "> пункт 2 102 Закона о РЦБ</td>
+          <td class="violation ">исполнено письмом от 03.09.2020г. №27390</td>
+          <td class="violation ">по вопросам мониторинга эмитентов ценных бумаг</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">327</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=308">АО "Jet Airlines"</a></td>
+          <td class="violation  creationdate">12.08.2020</td>
+          <td class="violation ">03-4-17/1564</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            За нарушение порядка раскрытия информации, установленного ст. 102 Закона РК "О рынке ценных бумаг"
+            </td>
+          <td class="violation ">
+            04.09.2020 
+          </td>
+          <td class="violation "> пункт 2 102 Закона о РЦБ</td>
+          <td class="violation ">не исполнено</td>
+          <td class="violation ">по вопросам мониторинга эмитентов ценных бумаг</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">328</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=1806">АО "Север Птица"</a></td>
+          <td class="violation  creationdate">12.08.2020</td>
+          <td class="violation ">03-4-17/1567</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            За нарушение порядка раскрытия информации, установленного ст. 102 Закона РК "О рынке ценных бумаг"
+            </td>
+          <td class="violation ">
+            04.09.2020 
+          </td>
+          <td class="violation "> пункт 2 102 Закона о РЦБ</td>
+          <td class="violation ">Исполнено письмом от 13.08.2020г. №483</td>
+          <td class="violation ">по вопросам мониторинга эмитентов ценных бумаг</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">329</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=1688">АО «Развлекательный центр Думан»</a></td>
+          <td class="violation  creationdate">12.08.2020</td>
+          <td class="violation ">03-4-17/1568</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            За нарушение порядка раскрытия информации, установленного ст. 102 Закона РК "О рынке ценных бумаг"
+            </td>
+          <td class="violation ">
+            04.09.2020 
+          </td>
+          <td class="violation "> пункт 2 102 Закона о РЦБ</td>
+          <td class="violation ">не исполнено</td>
+          <td class="violation ">по вопросам мониторинга эмитентов ценных бумаг</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">330</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=2977">АО "НАУЧНЫЙ ЦЕНТР АКУШЕРСТВА, ГИНЕКОЛОГИИ И ПЕРИНАТОЛОГИИ"</a></td>
+          <td class="violation  creationdate">12.08.2020</td>
+          <td class="violation ">03-4-17/1566</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            За нарушение порядка раскрытия информации, установленного ст. 102 Закона РК "О рынке ценных бумаг"
+            </td>
+          <td class="violation ">
+            04.09.2020 
+          </td>
+          <td class="violation "> пункт 2 102 Закона о РЦБ</td>
+          <td class="violation ">исполнено письмом от 15.09.2020г. №03/494</td>
+          <td class="violation ">по вопросам мониторинга эмитентов ценных бумаг</td>
+          <td class="violation ">Алматинский городской филиал (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">331</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=803">АО "Национальный научный медицинский центр"</a></td>
+          <td class="violation  creationdate">12.08.2020</td>
+          <td class="violation ">03-4-17/1569</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            За нарушение порядка раскрытия информации, установленного ст. 102 Закона РК "О рынке ценных бумаг"
+            </td>
+          <td class="violation ">
+            04.09.2020 
+          </td>
+          <td class="violation "> пункт 2 102 Закона о РЦБ</td>
+          <td class="violation ">Исполнено письмом от 20.08.2020 №010-НС-2020 </td>
+          <td class="violation ">по вопросам мониторинга эмитентов ценных бумаг</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">332</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=3048">АО «Berekе Azia group» </a></td>
+          <td class="violation  creationdate">11.08.2020</td>
+          <td class="violation ">№03-4-17/1538</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предупреждение</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            несвоевременное размещение списка аффилированных лиц на 01.07.2020
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation ">пункт 2 статьи 102 Закона о РЦБ</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">333</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=429">АО "Алматинский вагоноремонтный завод"</a></td>
+          <td class="violation  creationdate">11.08.2020</td>
+          <td class="violation ">03-4-17/1536</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            ст. 102 Закона РК "О рынке ценных бумаг"
+            </td>
+          <td class="violation ">
+            08.09.2020 
+          </td>
+          <td class="violation ">ст. 102 Закона РК "О рынке ценных бумаг"</td>
+          <td class="violation ">Исполнено (вх. №26368 от 26.08.2020г.)</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">334</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=1680">АО "Тыныс"</a></td>
+          <td class="violation  creationdate">11.08.2020</td>
+          <td class="violation ">03-4-17/1528</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            ст. 102 Закона РК "О рынке ценных бумаг"
+            </td>
+          <td class="violation ">
+            16.09.2020 
+          </td>
+          <td class="violation ">ст. 102 Закона РК "О рынке ценных бумаг"</td>
+          <td class="violation ">исполнено</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">335</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=863">АО "Раимбек Инвест"</a></td>
+          <td class="violation  creationdate">11.08.2020</td>
+          <td class="violation ">03-4-17/1530</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            ст. 102 Закона РК "О рынке ценных бумаг"
+            </td>
+          <td class="violation ">
+            14.09.2020 
+          </td>
+          <td class="violation ">ст. 102 Закона РК "О рынке ценных бумаг"</td>
+          <td class="violation ">исполнено</td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">336</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=3047">АО "KTZ Express"</a></td>
+          <td class="violation  creationdate">11.08.2020</td>
+          <td class="violation ">03-4-17/1537</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предупреждение</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            ст. 102 Закона РК "О рынке ценных бумаг"
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation ">ст. 102 Закона РК "О рынке ценных бумаг"</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">337</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=3247">АКЦИОНЕРНОЕ ОБЩЕСТВО "ИНВЕСТИЦИОННЫЙ ФИНАНСОВЫЙ ДОМ "RESMI"</a></td>
+          <td class="violation  creationdate">11.08.2020</td>
+          <td class="violation ">03-4-17/1529</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предупреждение</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            ст. 102 Закона РК "О рынке ценных бумаг"
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation ">ст. 102 Закона РК "О рынке ценных бумаг"</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">338</td>
+          <td class="violation ">Организация, осуществляющая микрофинансовую деятельность</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=3245">ТОО "АКТИВ ЛОМБАРД"</a></td>
+          <td class="violation  creationdate">11.08.2020</td>
+          <td class="violation ">19-0-14/1138</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            Не соответствие представленных документов, прилагаемых к Уведомлению об утверждении услуг, нарушение требований Порядка в части содержания, оформления, обязательным условиям договора о предоставлении микрокредита
+            </td>
+          <td class="violation ">
+            14.09.2020 
+          </td>
+          <td class="violation ">подпункт 13) пункт 5, часть вторая подпункта 4) пункта 10, пункта 12 Порядка, приложение 2 к Правилам №237</td>
+          <td class="violation ">Исполнено (исх. №240 от 07.09.2020г., вх. №27922 от 08.09.2020г.)</td>
+          <td class="violation ">"Порядок заключения договора о предоставлении микрокредита..." утвержденный ПП НБРК № 232 от 29 ноября 2019 года</td>
+          <td class="violation ">Управление региональных представителей в городе Нур-Султан</td>
+        </tr>
+      
+        <tr>
+          <td class="">339</td>
+          <td class="violation ">Эмитент</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=1729">АО «АтырауМунайОнимдери»</a></td>
+          <td class="violation  creationdate">11.08.2020</td>
+          <td class="violation ">03-4-17/1534</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предупреждение</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            ст. 102 Закона РК "О рынке ценных бумаг"
+            </td>
+          <td class="violation ">
+            
+          </td>
+          <td class="violation ">ст. 102 Закона РК "О рынке ценных бумаг"</td>
+          <td class="violation "></td>
+          <td class="violation ">по вопросам регулирования финансового сектора</td>
+          <td class="violation ">Центральный аппарат (Алматы)</td>
+        </tr>
+      
+        <tr>
+          <td class="">340</td>
+          <td class="violation ">Организация, осуществляющая микрофинансовую деятельность</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russian&view=organization&id=3248">ТОО «Капитал-ААА Ломбард»</a></td>
+          <td class="violation  creationdate">11.08.2020</td>
+          <td class="violation ">19-0-14/1137</td>
+          <td class="violation ">Меры воздействия</td>
+          <td class="violation ">письменное предписание</td>
+          <td class="violation "></td>
+          <td class="violation ">
+            
+            нарушение требований Порядка в части содержания, оформления, обязательным условиям договора о предоставлении микрокредита
+            </td>
+          <td class="violation ">
+            14.09.2020 
+          </td>
+          <td class="violation ">пункт 7, подпункт 2) пункта 8 Порядка</td>
+          <td class="violation ">Исключен из реестра ООМФД от 08.09.2020г</td>
+          <td class="violation ">"Порядок заключения договора о предоставлении микрокредита..." утвержденный ПП НБРК № 232 от 29 ноября 2019 года</td>
+          <td class="violation ">Управление региональных представителей в городе Нур-Султан</td>
+        </tr>
+      
+        <tr>
+          <td class="">341</td>
+          <td class="violation ">Организация, осуществляющая микрофинансовую деятельность</td>
+          <td class="violation "><a href="/index.cfm?docid=3227&switch=russia
